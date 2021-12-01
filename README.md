@@ -24,7 +24,7 @@
 
        On Config page you can change input and output formats
 
-       You have install some addons (sudo apt install ffmpeg atomicparsley -y)
+       You have to install some addons (sudo apt install ffmpeg atomicparsley -y)
 
        Compiled with Lazarus on Ubuntu 20
 
