@@ -28,7 +28,7 @@
 
        You have to install :
        youtube-dl
-       [yt-dlp][yt-dlp]
+       ![yt-dlp][yt-dlp]
        ffmpeg
        atomicparsley
 
