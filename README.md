@@ -27,13 +27,10 @@
        On Config page you can change input and output formats
 
        You have to install :
-   -      youtube-dl
-
-   -      [yt-dlp][yt-dlp]
-
-   -      ffmpeg
-
-   -      atomicparsley
+-   youtube-dl
+-   [yt-dlp][yt-dlp]
+-   ffmpeg
+-   atomicparsley
 
        Compiled with Lazarus on Ubuntu 20
 
