@@ -26,7 +26,7 @@
 
        On Config page you can change input and output formats
 
-### ADDONS for Ubuntu or Debian
+### ADDONS
 -   [  youtube-dl][youtube-dl]
 -   [  yt-dlp][yt-dlp]
 -   [  ffmpeg][ffmpeg]
@@ -38,7 +38,7 @@
 
 [yt-dlp]: https://github.com/yt-dlp/yt-dlp
 
-[ffmpeg]: https://wiki.ubuntuusers.de/FFmpeg/
+[ffmpeg]: https://www.ffmpeg.org/download.html
 
 [atomicparsley]: https://howtoinstall.co/en/atomicparsley
 
