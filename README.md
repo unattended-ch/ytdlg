@@ -32,7 +32,11 @@
 -   [  ffmpeg][ffmpeg]
 -   [  atomicparsley][atomicparsley]
 
+### DOWNLOAD
 
+-   [  Releases][releases]
+
+[releases]: https://github.com/unattended-ch/ytdlg/releases
 
 [youtube-dl]: https://github.com/ytdl-org/youtube-dl
 
