@@ -26,15 +26,15 @@
 
        On Config page you can change input and output formats
 
+### DOWNLOAD
+
+-   [  Releases][releases]
+
 ### ADDONS
 -   [  youtube-dl][youtube-dl]
 -   [  yt-dlp][yt-dlp]
 -   [  ffmpeg][ffmpeg]
 -   [  atomicparsley][atomicparsley]
-
-### DOWNLOAD
-
--   [  Releases][releases]
 
 [releases]: https://github.com/unattended-ch/ytdlg/releases
 
