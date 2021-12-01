@@ -26,7 +26,7 @@
 
        On Config page you can change input and output formats
 
-       You have to install some addons (sudo apt install ffmpeg atomicparsley -y)
+       You have to install youtube-dl or yt-dlp and ffmpeg atomicparsley
 
        Compiled with Lazarus on Ubuntu 20
 
