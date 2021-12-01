@@ -22,6 +22,8 @@
        I = Display youtube-dl output
        X = Remove entry from list
 
+       All list entrys are reloaded on restart
+
        On Config page you can change input and output formats
 
        You have to install some addons (sudo apt install ffmpeg atomicparsley -y)
