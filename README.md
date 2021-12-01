@@ -32,17 +32,13 @@
 -   [ffmpeg][ffmpeg]
 -   [atomicparsley][atomicparsley]
 
-       Compiled with Lazarus on Ubuntu 20
 
-### TODO
-
-       Windows version follows.
 
 [youtube-dl]: https://github.com/ytdl-org/youtube-dl
 
 [yt-dlp]: https://github.com/yt-dlp/yt-dlp
 
-[ffmpeg]: sudo apt install ffmpeg
+[ffmpeg]: https://wiki.ubuntuusers.de/FFmpeg/
 
-[atomicparsley]: sudo apt install atomicparsley
+[atomicparsley]: https://howtoinstall.co/en/atomicparsley
 
