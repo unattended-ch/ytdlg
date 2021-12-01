@@ -26,7 +26,7 @@
 
        On Config page you can change input and output formats
 
-### ADDONS to install
+### ADDONS for Ubuntu or Debian
 -   [  youtube-dl][youtube-dl]
 -   [  yt-dlp][yt-dlp]
 -   [  ffmpeg][ffmpeg]
