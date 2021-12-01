@@ -31,10 +31,10 @@
 -   [  Releases][releases]
 
 ### ADDONS
--   [  youtube-dl][youtube-dl]
--   [  yt-dlp][yt-dlp]
--   [  ffmpeg][ffmpeg]
--   [  atomicparsley][atomicparsley]
+-   [  youtube-dl][youtube-dl] Download manager
+-   [  yt-dlp][yt-dlp] Download manager
+-   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio
+-   [  atomicparsley][atomicparsley] Insert meta data
 
 [releases]: https://github.com/unattended-ch/ytdlg/releases
 
