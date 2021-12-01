@@ -27,10 +27,10 @@
        On Config page you can change input and output formats
 
        You have to install :
--     [youtube-dl][youtube-dl]
--     [yt-dlp][yt-dlp]
--     [ffmpeg][ffmpeg]
--     [atomicparsley][atomicparsley]
+-   [  youtube-dl][youtube-dl]
+-   [  yt-dlp][yt-dlp]
+-   [  ffmpeg][ffmpeg]
+-   [  atomicparsley][atomicparsley]
 
 
 
