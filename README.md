@@ -26,7 +26,7 @@
 
        On Config page you can change input and output formats
 
-       You have to install :
+### ADDONS
 -   [  youtube-dl][youtube-dl]
 -   [  yt-dlp][yt-dlp]
 -   [  ffmpeg][ffmpeg]
