@@ -24,13 +24,17 @@
 
        All list entrys are reloaded on restart
 
+       After download double click on image to start vlc
+
        On Config page you can change input and output formats
+
+       ytdlg is written with [Lazarus](lazarus)
 
 ### DOWNLOAD
 
 -   [  Releases][releases]
 
-### ADDONS
+### NEEDED TOOLS
 -   [  youtube-dl][youtube-dl] Download manager
 -   [  yt-dlp][yt-dlp] Download manager
 -   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio
@@ -45,4 +49,6 @@
 [ffmpeg]: https://www.ffmpeg.org/download.html
 
 [atomicparsley]: https://howtoinstall.co/en/atomicparsley
+
+[lazarus]: https://www.lazarus-ide.org/
 
