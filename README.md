@@ -28,7 +28,8 @@
 
        On Config page you can change input and output formats
 
-       ytdlg is written with [Lazarus](lazarus)
+       ytdlg is written with
+   [Lazarus][lazarus]
 
 ### DOWNLOAD
 
