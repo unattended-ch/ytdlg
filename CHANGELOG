@@ -3,4 +3,10 @@
 		Windows resizing added
 		Menu removed
 0.0.0.3		Synchronizing output from threads
-		Execption handling added
+		Exception handling added
+0.0.0.4		Restart previously running downloads
+		Reload output from download in Information window
+		Disable Remove button during download
+		Log output format changed
+		ffmpeg and vlc added to config
+		Windows release
