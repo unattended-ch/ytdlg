@@ -38,6 +38,7 @@
 -   [  Releases][releases]
 
 ### NEEDED TOOLS
+    You must install the following tools :
 -   [  youtube-dl][youtube-dl] Download manager
 -   [  yt-dlp][yt-dlp] Download manager
 -   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio
