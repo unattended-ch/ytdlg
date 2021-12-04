@@ -10,3 +10,5 @@
 		Log output format changed
 		ffmpeg and vlc added to config
 		Windows release
+0.0.0.5		Information display font name changed for Windows
+		Thumbnail loading fixed
