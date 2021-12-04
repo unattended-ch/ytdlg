@@ -4,11 +4,6 @@
 
 ![Main Page](/res/ytdlg.png)
 
-### HELP WANTED
-
-       If you are developing with MacOS, please Contact me under Discusson.
-       I need to compile the project as a .DMG file.
-
 ### DESCRIPTION
 
        ytdlg is a gui for youtube-dl or yt-dlp
