@@ -16,7 +16,6 @@
 
 ## DESCRIPTION
 
-
        ytdlg <Enter>
 
        Download a single file or all files from a playlist
@@ -50,6 +49,7 @@
 -   [  Releases][releases]
 
 ## NEEDED TOOLS
+
     You must install the following tools :
 -   [  youtube-dl][youtube-dl] Download manager
 -   [  yt-dlp][yt-dlp] Download manager
