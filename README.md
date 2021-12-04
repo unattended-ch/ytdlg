@@ -1,4 +1,4 @@
-### NAME
+## NAME
 
        ytdlg is a gui for youtube-dl or yt-dlp
 
@@ -14,7 +14,7 @@
   </ol>
 </details>
 
-### DESCRIPTION
+## DESCRIPTION
 
 
        ytdlg <Enter>
@@ -45,11 +45,11 @@
        I have successfully compiled the project on my iMac,
        but unfortunately my OS is too old for yt-dlp or youtube-dl
 
-### DOWNLOAD
+## DOWNLOAD
 
 -   [  Releases][releases]
 
-### NEEDED TOOLS
+## NEEDED TOOLS
     You must install the following tools :
 -   [  youtube-dl][youtube-dl] Download manager
 -   [  yt-dlp][yt-dlp] Download manager
