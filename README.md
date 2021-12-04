@@ -31,7 +31,7 @@
 
        On Config page you can change input and output formats
 
-       ytdlg is written with Lazarus
+       Compiled with Lazarus for Ubuntu and Windows
 
 ### DOWNLOAD
 
