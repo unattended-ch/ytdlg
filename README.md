@@ -33,6 +33,9 @@
 
        Compiled with Lazarus for Ubuntu and Windows
 
+       I have successfully compiled the project on my iMac,
+       but unfortunately my OS is too old for yt-dlp or youtube-dl
+
 ### DOWNLOAD
 
 -   [  Releases][releases]
