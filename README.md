@@ -1,8 +1,9 @@
+<a name="toc"></a>
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">TABLE OF CONTENTS</h2></summary>
   <ol>
-    <li><a href="#description">Description</a> </li>
+    <li><a href="#description">Description</a></li>
     <li><a href="#download">Download</a></li>
     <li><a href="#tools">Needed tools</a></li>
   </ol>
@@ -44,6 +45,9 @@
        I have successfully compiled the project on my iMac,
        but unfortunately my OS has only python 2.7
 
+   [goto TOC](#toc)
+
+
 ## DOWNLOAD
 
 -   [  Releases][releases]
@@ -55,6 +59,8 @@
 -   [  yt-dlp][yt-dlp] Download manager
 -   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio
 -   [  atomicparsley][atomicparsley] Insert meta data
+
+   [goto TOC](#toc)
 
 [releases]: https://github.com/unattended-ch/ytdlg/releases
 
