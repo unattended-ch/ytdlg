@@ -10,7 +10,7 @@
   <ol>
     <li><a href="#description">Description</a> </li>
     <li><a href="#download">Download</a></li>
-    <li><a href="#needed tools">Needed tools</a></li>
+    <li><a href="#tools">Needed tools</a></li>
   </ol>
 </details>
 
@@ -42,13 +42,13 @@
        Compiled with Lazarus for Ubuntu and Windows
 
        I have successfully compiled the project on my iMac,
-       but unfortunately my OS is too old for yt-dlp or youtube-dl
+       but unfortunately my OS has only python 2.7
 
 ## DOWNLOAD
 
 -   [  Releases][releases]
 
-## NEEDED TOOLS
+## TOOLS
 
     You must install the following tools :
 -   [  youtube-dl][youtube-dl] Download manager

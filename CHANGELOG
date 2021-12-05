@@ -12,3 +12,5 @@
 		Windows release
 0.0.0.5		Information display font name changed for Windows
 		Thumbnail loading fixed
+0.0.0.6		Enable buttons after download error
+		Checksum files for releases added
