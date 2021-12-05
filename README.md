@@ -1,9 +1,3 @@
-## NAME
-
-       ytdlg is a gui for youtube-dl or yt-dlp
-
-![Main Page](/res/ytdlg.png)
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">TABLE OF CONTENTS</h2></summary>
@@ -13,6 +7,12 @@
     <li><a href="#tools">Needed tools</a></li>
   </ol>
 </details>
+
+## NAME
+
+       ytdlg is a gui for youtube-dl or yt-dlp
+
+![Main Page](/res/ytdlg.png)
 
 ## DESCRIPTION
 
