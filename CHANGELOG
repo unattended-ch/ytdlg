@@ -14,3 +14,9 @@
 		Thumbnail loading fixed
 0.0.0.6		Enable buttons after download error
 		Checksum files for releases added
+0.0.0.7		Information window load data on activate
+		Information and thumbnail loading process optimized
+		Video, Audio and Output format added for selection
+		Video and Audio format removed from config
+		Ffmpeg removed from config
+		ytdlg-full package created with all tools

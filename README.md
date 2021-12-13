@@ -19,36 +19,36 @@
 
        ytdlg <Enter>
 
-       Download a single file or all files from a playlist
+       - Download a single file or all files from a playlist
 
-       Linux data folder ~/.ytdlg is created for temporary files
-       Downloaded files are saved in ~/Music or ~/Videos
+       - Linux data folder ~/.ytdlg is created for temporary files
+       - Downloaded files are saved in ~/Music or ~/Videos
 
-       Windows data folder %APPDATA%\ytdlg is created for temporary files
-       Downloaded files are saved in %USERPROFILE%\Music or %USERPROFILE%\Videos
+       - Windows data folder %APPDATA%\ytdlg is created for temporary files
+       - Downloaded files are saved in %USERPROFILE%\Music or %USERPROFILE%\Videos
 
-       Playlist is saved in a subfolder
+       - Playlist is saved in a subfolder
+
+       - Video, Audio and Output format selection
+
+       - All list entrys are reloaded on restart
+
+       - After download double click on image to start vlc
 
        A = Download only audio files
        V = Download video files
        I = Display youtube-dl output
        X = Remove entry from list
 
-       All list entrys are reloaded on restart
-
-       After download double click on image to start vlc
-
-       On Config page you can change input and output formats
-
        Compiled with Lazarus for Ubuntu and Windows
-
-       I have successfully compiled the project on my iMac,
-       but unfortunately my OS has only python 2.7
 
    [goto TOC](#toc)
 
 
 ## DOWNLOAD
+
+       - Minimum install
+       - Full install
 
 -   [  Releases][releases]
 
