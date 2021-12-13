@@ -47,8 +47,11 @@
 
 ## DOWNLOAD
 
-       - Minimum install
-       - Full install
+       - Ubuntu installer packages
+       - Windows installer packages
+
+       - Minimum installation package
+       - Full installation package
 
 -   [  Releases][releases]
 
