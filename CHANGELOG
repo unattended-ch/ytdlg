@@ -19,4 +19,5 @@
 		Video, Audio and Output format added for selection
 		Video and Audio format removed from config
 		Ffmpeg removed from config
-		ytdlg-full package created with all tools
+		ytdlg-full for Windows systems with all needed tools
+		ytdlg-full for Linux systems you have to install yt-dlp manually

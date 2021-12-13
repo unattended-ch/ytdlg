@@ -47,11 +47,10 @@
 
 ## DOWNLOAD
 
-       - Ubuntu installer packages
-       - Windows installer packages
+       - Ubuntu installer package
+       - Windows installer package
 
-       - Minimum installation package
-       - Full installation package
+       - Windows full installer package
 
 -   [  Releases][releases]
 
