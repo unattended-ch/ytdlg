@@ -21,3 +21,9 @@
 		Ffmpeg removed from config
 		ytdlg-full for Windows systems with all needed tools
 		ytdlg-full for Linux systems you have to install yt-dlp manually
+0.0.0.8		Webm and Opus formats removed
+		Stop download by pressing A or V during download
+		Disable download buttons if file is already downloaded
+		Using TProcess for external commands to hide console during execution
+		Set bestvideo or bestaudio if no format specified
+		Raspberry version added

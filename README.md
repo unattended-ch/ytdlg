@@ -47,10 +47,11 @@
 
 ## DOWNLOAD
 
-       - Ubuntu installer package
-       - Windows installer package
+       - Ubuntu installer package       (ytdlg_VERSION_generic.deb)
+       - Raspberry  installer package   (ytdlg_VERSION_armhf.deb)
+       - Windows installer package      (ytdlg_VERSION_setup.exe)
 
-       - Windows full installer package
+       - Windows full installer package (ytdlg-full_VERSION_setup.exe)
 
 -   [  Releases][releases]
 
