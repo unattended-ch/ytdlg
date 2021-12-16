@@ -1,6 +1,6 @@
 ## NAME
 
-       ytdlg is a gui for youtube-dl or yt-dlp
+       ytdlg is a gui for youtube-dl and yt-dlp
 
 <a name="toc"></a>
 <!-- TABLE OF CONTENTS -->

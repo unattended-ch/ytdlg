@@ -27,4 +27,5 @@
 		Using TProcess for external commands to hide console during execution
 		Set bestvideo or bestaudio if no format specified
 		Raspberry version added
-0.0.0.9		Curl added to tools for Windows
+0.0.0.9		Curl added to tools for Windows installer
+		Information window crash under windows fixed
