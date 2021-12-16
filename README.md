@@ -40,24 +40,24 @@
        I = Display youtube-dl output
        X = Remove entry from list
 
-       Compiled with Lazarus for Ubuntu and Windows
+       Compiled with Lazarus for Ubuntu, Raspian and Windows
 
    [goto TOC](#toc)
 
 
 ## DOWNLOAD
 
-       - Ubuntu installer package       (ytdlg_VERSION_generic.deb)
-       - Raspberry  installer package   (ytdlg_VERSION_armhf.deb)
-       - Windows installer package      (ytdlg_VERSION_setup.exe)
+       - Ubuntu minimal installer package          (ytdlg_VERSION_generic.deb)
+       - Raspberry minimal installer package       (ytdlg_VERSION_armhf.deb)
+       - Windows minimal installer package         (ytdlg_VERSION_setup.exe)
 
-       - Windows full installer package (ytdlg-full_VERSION_setup.exe)
+       - Windows full installer package with tools (ytdlg-full_VERSION_setup.exe)
 
 -   [  Releases][releases]
 
 ## TOOLS
 
-    You must install the following tools :
+    For all minimal packages you must install the following tools :
 -   [  youtube-dl][youtube-dl] Download manager
 -   [  yt-dlp][yt-dlp] Download manager
 -   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio
