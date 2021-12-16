@@ -62,6 +62,7 @@
 -   [  yt-dlp][yt-dlp] Download manager
 -   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio
 -   [  atomicparsley][atomicparsley] Insert meta data
+-   [  curl][curl] Download thumbnails (Windows 7 only)
 
    [goto TOC](#toc)
 
@@ -75,5 +76,6 @@
 
 [atomicparsley]: https://howtoinstall.co/en/atomicparsley
 
-[lazarus]: https://www.lazarus-ide.org/
+[curl]: https://curl.se/windows/
 
+[lazarus]: https://www.lazarus-ide.org/
