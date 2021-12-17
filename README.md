@@ -1,9 +1,9 @@
-## NAME
-
-       ytdlg is a gui for youtube-dl and yt-dlp
-
+## ytdlg
 [![Release version](https://img.shields.io/github/v/release/unattended-ch/ytdlg?color=blue&label=&style=for-the-badge)](https://github.com/unattended-ch/ytdlg/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/unattended-ch/ytdlg/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/latest)
+
+       gui for youtube-dl and yt-dlp
+
 
 <a name="toc"></a>
 <!-- TABLE OF CONTENTS -->
