@@ -34,3 +34,9 @@
 0.0.0.11	Information loading crash fixed if yt-dlp return error
 		Display downloaded information bytes during loading
 		Information window changed from TMemo to TRichMemo
+0.0.0.12	Config "Single" remove spaces on load
+		Config "Playlist" remove spaces on load
+		Information window goto last line flicker fixed
+		Information window show JSON as formatted text
+		Information window save to file added
+		Restart previously running downlods on window change fixed
