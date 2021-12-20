@@ -22,7 +22,7 @@
   </ol>
 </details>
 
-![Main Page](/res/ytdlg.png)
+![Main Page](/res/main-window.png)
 
 ## DESCRIPTION
 

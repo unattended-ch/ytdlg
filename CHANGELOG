@@ -41,3 +41,5 @@
 		Information window save to file added
 		Restart previously running downlods on window change fixed
 		MacOS app BETA installer package
+0.0.0.13	Update check added
+		On error create .dbg file from command output (please send me .dbg and .info !)
