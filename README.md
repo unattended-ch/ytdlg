@@ -50,7 +50,7 @@
        I = Display youtube-dl output
        X = Remove entry from list
 
-       Compiled with Lazarus for Ubuntu, Raspian and Windows
+       Compiled with Lazarus for Ubuntu, Raspian, MacOS and Windows
 
    [goto TOC](#toc)
 
