@@ -34,6 +34,9 @@
        - Windows data folder %APPDATA%\ytdlg is created for temporary files
        - Downloaded files are saved in %USERPROFILE%\Music or %USERPROFILE%\Videos
 
+       - MacOS data folder ~/.ytdlg is created for temporary files
+       - Downloaded files are saved in ~/Music or ~/Videos
+
        - Playlist is saved in a subfolder
 
        - Video, Audio and Output format selection
@@ -57,6 +60,7 @@
        - Ubuntu minimal installer package          (ytdlg_VERSION_generic.deb)
        - Raspberry minimal installer package       (ytdlg_VERSION_armhf.deb)
        - Windows minimal installer package         (ytdlg_VERSION_setup.exe)
+       - MacOS minimal app package                 (ytdlg_VERSION_macos.zip)
 
        - Windows full installer package with tools (ytdlg-full_VERSION_setup.exe)
 
