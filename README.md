@@ -9,7 +9,7 @@
 
     Ubuntu, Raspian, MacOS and Windows
 
-    Remember [Remote Chaos Expirience](https://tickets.events.ccc.de/RC3-21/)
+   -  [Remote Chaos Expirience](https://tickets.events.ccc.de/RC3-21/)
 
 </div>
 
