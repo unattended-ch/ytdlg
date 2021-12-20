@@ -6,6 +6,7 @@
 [![Downloads](https://img.shields.io/github/downloads/unattended-ch/ytdlg/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/latest)
 
 gui for youtube-dl and yt-dlp
+
 Ubuntu, Raspian, MacOS and Windows
 
 </div>
