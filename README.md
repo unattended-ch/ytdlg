@@ -57,10 +57,10 @@
 
 ## DOWNLOAD
 
-       - Ubuntu minimal installer package          (ytdlg_VERSION_generic.deb)
+       - Ubuntu minimal installer package          (ytdlg_VERSION_x86-64.deb)
        - Raspberry minimal installer package       (ytdlg_VERSION_armhf.deb)
        - Windows minimal installer package         (ytdlg_VERSION_setup.exe)
-       - MacOS minimal app package                 (ytdlg_VERSION_macos.zip)
+       - MacOS minimal installer package           (ytdlg_VERSION_macos-x64.pkg)
 
        - Windows full installer package with tools (ytdlg-full_VERSION_setup.exe)
 
