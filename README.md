@@ -9,7 +9,7 @@
 
     Ubuntu, Raspian, MacOS and Windows
 
-   -  [Remote Chaos Expirience](https://tickets.events.ccc.de/RC3-21/)
+   -  [Remote Chaos Expirience](https://tickets.events.ccc.de/RC3-21/) from Dec. 27th – 30th, 2021
 
 </div>
 
