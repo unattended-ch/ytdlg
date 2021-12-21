@@ -43,3 +43,6 @@
 		MacOS app BETA installer package
 0.0.0.13	Update check added
 		On error create .dbg file from command output (please send me .dbg and .info !)
+0.0.0.14	Empty JSON crash fixed
+		Buffer overrun fixed
+		Error in build process fixed
