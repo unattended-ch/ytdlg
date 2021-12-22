@@ -74,7 +74,7 @@
 -   [  yt-dlp][yt-dlp] Download manager (Ubuntu and MacOS)
 -   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio (only MacOS)
 -   [  atomicparsley][atomicparsley] Insert meta data (only MacOS)
--   [  curl][curl] Download thumbnails (Windows 7 only)
+-   [  curl][curl] Download thumbnails (only Windows 7)
 
    [goto TOC](#toc)
 
