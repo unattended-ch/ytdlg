@@ -24,7 +24,7 @@
   </ol>
 </details>
 
-![Main Page](/res/main-window.png)
+![Main Page](/main-window.png)
 
 ## DESCRIPTION
 
