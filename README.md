@@ -36,6 +36,7 @@
          X = Remove entry from list
 
        - Download a single file or all files from a playlist
+       - Playlist is saved in a subfolder
 
        - Linux data folder ~/.ytdlg is created for temporary files
        - Downloaded files are saved in ~/Music or ~/Videos
@@ -45,8 +46,6 @@
 
        - MacOS data folder ~/.ytdlg is created for temporary files
        - Downloaded files are saved in ~/Music or ~/Videos
-
-       - Playlist is saved in a subfolder
 
        - Video, Audio and Output format selection
 
