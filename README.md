@@ -30,6 +30,11 @@
 
        ytdlg <Enter>
 
+         A = Download only audio files
+         V = Download video files
+         I = Display youtube-dl output
+         X = Remove entry from list
+
        - Download a single file or all files from a playlist
 
        - Linux data folder ~/.ytdlg is created for temporary files
@@ -48,11 +53,6 @@
        - All list entrys are reloaded on restart
 
        - After download double click on image to start vlc
-
-       A = Download only audio files
-       V = Download video files
-       I = Display youtube-dl output
-       X = Remove entry from list
 
 
    [goto TOC](#toc)
