@@ -80,9 +80,9 @@
 
 [releases]: https://github.com/unattended-ch/ytdlg/releases
 
-[youtube-dl]: https://github.com/ytdl-org/youtube-dl
+[youtube-dl]: https://github.com/ytdl-org/youtube-dl#installation
 
-[yt-dlp]: https://github.com/yt-dlp/yt-dlp
+[yt-dlp]: https://github.com/yt-dlp/yt-dlp#installation
 
 [ffmpeg]: https://www.ffmpeg.org/download.html
 
