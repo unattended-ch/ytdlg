@@ -7,7 +7,7 @@
 
     gui for youtube-dl and yt-dlp
 
-    Ubuntu, Raspian, MacOS and Windows
+    Compiled with Lazarus for Ubuntu, Raspian, MacOS and Windows
 
    -  [Remote Chaos Expirience](https://tickets.events.ccc.de/RC3-21/) from Dec. 27th – 30th, 2021
 
@@ -54,17 +54,15 @@
        I = Display youtube-dl output
        X = Remove entry from list
 
-       Compiled with Lazarus for Ubuntu, Raspian, MacOS and Windows
 
    [goto TOC](#toc)
 
 
 ## DOWNLOAD
 
-       - Ubuntu minimal installer package          (ytdlg_VERSION_x86-64.deb)
+       - Ubuntu minimal installer package          (ytdlg_VERSION_amd64.deb)
        - Raspberry minimal installer package       (ytdlg_VERSION_armhf.deb)
-       - Windows minimal installer package         (ytdlg_VERSION_setup.exe)
-       - MacOS minimal installer package           (ytdlg_VERSION_macos-x64.pkg)
+       - MacOS minimal installer package           (ytdlg_VERSION_mac64.dmg)
 
        - Windows full installer package with tools (ytdlg-full_VERSION_setup.exe)
 
@@ -73,10 +71,10 @@
 ## TOOLS
 
     For all minimal packages you must install the following tools :
--   [  youtube-dl][youtube-dl] Download manager
--   [  yt-dlp][yt-dlp] Download manager
--   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio
--   [  atomicparsley][atomicparsley] Insert meta data
+-   [  youtube-dl][youtube-dl] Download manager (Ubuntu and MacOS)
+-   [  yt-dlp][yt-dlp] Download manager (Ubuntu and MacOS)
+-   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio (only MacOS)
+-   [  atomicparsley][atomicparsley] Insert meta data (only MacOS)
 -   [  curl][curl] Download thumbnails (Windows 7 only)
 
    [goto TOC](#toc)

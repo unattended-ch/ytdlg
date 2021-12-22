@@ -46,3 +46,9 @@
 0.0.0.14	Empty JSON crash fixed
 		Buffer overrun fixed
 		Error in build process fixed
+0.0.0.15	MacOS .dmg installation image created
+		Setup packages renamed
+		On resize save position of window and reload at restart
+		Allow only one instance to run
+		Windows minimal package removed (Options in full package)
+		Ubuntu ffmpeg and AtomicParsley added to installer
