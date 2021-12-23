@@ -52,3 +52,8 @@
 		Allow only one instance to run
 		Windows minimal package removed (Options in full package)
 		Ubuntu ffmpeg and AtomicParsley added to installer (except MacOS)
+0.0.0.16	Information window placement and size depends on main window
+		Json reading error fixed (only one byte was missing)
+		Create .m3u file for playlist in ~/Music or ~/Videos
+		Removed .mp3 output format
+		Default video format set to .mkv
