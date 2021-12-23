@@ -11,6 +11,8 @@
 
    -  [Remote Chaos Expirience](https://tickets.events.ccc.de/RC3-21/) from Dec. 27th – 30th, 2021
 
+   -  [See my Drone flights](https://www.youtube.com/watch?v=_TpSaQHc49I&list=PLeq_PD6LyVzBegk-M-I_m54FEq6keZIud)
+
 </div>
 
 <a name="toc"></a>
@@ -37,6 +39,7 @@
 
        - Download a single file or all files from a playlist
        - Playlist is saved in a subfolder
+       - For playlist there will be created a .m3u file
 
        - Linux data folder ~/.ytdlg is created for temporary files
        - Downloaded files are saved in ~/Music or ~/Videos
