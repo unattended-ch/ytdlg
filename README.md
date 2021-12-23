@@ -9,9 +9,9 @@
 
     Compiled with Lazarus for Ubuntu, Raspian, MacOS and Windows
 
-   -  [Remote Chaos Expirience](https://tickets.events.ccc.de/RC3-21/) from Dec. 27th – 30th, 2021
+   [Remote Chaos Expirience](https://tickets.events.ccc.de/RC3-21/) from Dec. 27th – 30th, 2021
 
-   -  [See my Drone flights](https://www.youtube.com/watch?v=_TpSaQHc49I&list=PLeq_PD6LyVzBegk-M-I_m54FEq6keZIud)
+   [See my Drone flights](https://www.youtube.com/watch?v=_TpSaQHc49I&list=PLeq_PD6LyVzBegk-M-I_m54FEq6keZIud)
 
 </div>
 
