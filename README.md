@@ -11,9 +11,9 @@
 
    [Remote Chaos Expirience](https://tickets.events.ccc.de/RC3-21/) from Dec. 27th – 30th, 2021
 
-   [See my Drone flights](https://www.youtube.com/watch?v=_TpSaQHc49I&list=PLeq_PD6LyVzBegk-M-I_m54FEq6keZIud)
+   [Watch my Drone flights](https://www.youtube.com/watch?v=_TpSaQHc49I&list=PLeq_PD6LyVzBegk-M-I_m54FEq6keZIud)
 
-   [Watch my other project](https://www.youtube.com/watch?v=z7iqBf6ukMQ&list=PLeq_PD6LyVzBGIP-i9l4kIwKq3DLq-yoy)
+   [Watch my streak video project](https://www.youtube.com/watch?v=z7iqBf6ukMQ&list=PLeq_PD6LyVzBGIP-i9l4kIwKq3DLq-yoy)
 
 </div>
 
