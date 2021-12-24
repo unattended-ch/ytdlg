@@ -76,7 +76,7 @@
 
        - Windows full installer package with tools (ytdlg-full_VERSION_setup.exe)
 
-[Download ![Download ](https://img.shields.io/github/v/release/unattended-ch/ytdlg?label=&style=for-the-badge)](https://github.com/unattended-ch/ytdlg/releases/latest)
+[![Download ](https://img.shields.io/github/v/release/unattended-ch/ytdlg?label=&style=for-the-badge)](https://github.com/unattended-ch/ytdlg/releases/latest)
 
 ## TOOLS
 
