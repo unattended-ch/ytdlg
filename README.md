@@ -58,6 +58,7 @@
        - All list entrys are reloaded on restart
 
        - Manage work files from the Information window (Save, View, Delete)
+       - Right click on file opens the option menu
 
        - After download double click on image to start vlc
 
