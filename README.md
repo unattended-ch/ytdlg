@@ -24,8 +24,11 @@
   </ol>
 </details>
 
+## WINDOWS
+### Main window
 ![Main Page](/main-window.png)
 
+### Information window
 ![Info Page](/info-window.png)
 
 ## DESCRIPTION
