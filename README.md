@@ -58,6 +58,8 @@
        - All list entrys are reloaded on restart
 
        - Manage work files from Information window (Save, View, Delete)
+       - If you open the Information window it displays the current task
+       - Click on file stop current task and load the file for viewing
        - Right click on file opens the option menu
 
        - After download double click on image to start vlc
