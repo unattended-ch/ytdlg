@@ -64,5 +64,5 @@
 		Information window manage all work files in left panel
 		Stop loading information on JSON error
 		Process replaced with ProcessUTF8
-		Display what to download on Panel File or Playlist
+		Display what to download on Panel (File or Playlist)
 		MacOS progress bar position fixed
