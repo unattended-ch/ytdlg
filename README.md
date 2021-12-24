@@ -11,10 +11,6 @@
 
    [Remote Chaos Expirience](https://tickets.events.ccc.de/RC3-21/) from Dec. 27th – 30th, 2021
 
-   [Watch my Drone flights](https://www.youtube.com/watch?v=_TpSaQHc49I&list=PLeq_PD6LyVzBegk-M-I_m54FEq6keZIud)
-
-   [Watch my streak video project](https://www.youtube.com/watch?v=z7iqBf6ukMQ&list=PLeq_PD6LyVzBGIP-i9l4kIwKq3DLq-yoy)
-
 </div>
 
 <a name="toc"></a>
@@ -30,13 +26,15 @@
 
 ![Main Page](/main-window.png)
 
+![Info Page](/info-window.png)
+
 ## DESCRIPTION
 
        ytdlg <Enter>
 
          A = Download only audio files
          V = Download video files
-         I = Display youtube-dl output
+         I = Display process output
          X = Remove entry from list
 
        - Download a single file or all files from a playlist
@@ -55,6 +53,8 @@
        - Video, Audio and Output format selection
 
        - All list entrys are reloaded on restart
+
+       - Manage work files from the Information window (Save, View, Delete)
 
        - After download double click on image to start vlc
 
