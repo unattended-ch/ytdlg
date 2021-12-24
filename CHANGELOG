@@ -60,7 +60,7 @@
 		VP9 and Opus formats added
 0.0.0.17	Prevent multiple loading of .run files if focus was lost
 		Information window position for window fixed
-		Information window "Save file" and added
+		Information window "Save file" added
 		Information window manage all work files in left panel
 		Stop loading information on JSON error
 		Process replaced with ProcessUTF8
