@@ -66,3 +66,4 @@
 		Process replaced with ProcessUTF8
 		Display what to download on Panel (File or Playlist)
 		MacOS progress bar position fixed
+		Do not create playlist file during information loading

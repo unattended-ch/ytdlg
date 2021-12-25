@@ -9,6 +9,10 @@
 
     Compiled with Lazarus for Ubuntu, Raspian, MacOS and Windows
 
+    praevidere et cogitare nimis aliis quod opus est illis
+
+
+
    [Remote Chaos Expirience](https://tickets.events.ccc.de/RC3-21/) from Dec. 27th – 30th, 2021
 
 </div>
@@ -43,6 +47,7 @@
        - Download a single file or all files from a playlist
        - Playlist is saved in a subfolder
        - For playlist there will be created a .m3u file
+       - Remember downloading a playlist could take a long time depending on the size
 
        - Linux data folder ~/.ytdlg is created for temporary files
        - Downloaded files are saved in ~/Music or ~/Videos
@@ -61,6 +66,7 @@
        - If you open the Information window it displays the current task
        - Click on file stop current task and load the file for viewing
        - Right click on file opens the option menu
+       - Opening and closing the Information window with playlist could take time
 
        - After download double click on image to start vlc
 
