@@ -11,6 +11,8 @@
 
     auxilio aliorum anticipant et cogitant pro se
 
+    vide alios et bene qui opus est cogitare
+
 
 
    [Remote Chaos Expirience](https://tickets.events.ccc.de/RC3-21/) from Dec. 27th – 30th, 2021
