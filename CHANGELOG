@@ -67,3 +67,6 @@
 		Display what to download on Panel (File or Playlist)
 		MacOS progress bar position fixed
 		Do not create playlist file during information loading
+0.0.0.18	Multiple buttons in Message window fixed
+		Information window display filename on top
+		MacOS installer icon fixed and unmount dmg after install
