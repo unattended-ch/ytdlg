@@ -9,7 +9,7 @@
 
     Compiled with Lazarus for Ubuntu, Raspian, MacOS and Windows
 
-    [vide alios et bene qui opus est cogitare](https://www.google.ch/search?q=%22vide+alios+et+bene+qui+opus+est+cogitare%22+lateinisch&source=hp&ei=EHPGYcGmLcaE9u8PxtW1-AE&iflsig=ALs-wAMAAAAAYcaBIPRpjDEgZ4ux_QGLPX5zLaaPTdnX&ved=0ahUKEwjB7ojK5f30AhVGgv0HHcZqDR8Q4dUDCAY&uact=5&oq=%22vide+alios+et+bene+qui+opus+est+cogitare%22+lateinisch&gs_lcp=Cgdnd3Mtd2l6EAM6BwghEAoQoAE6BAghEBU6BgghEAoQFVAAWIJGYJ1JaAJwAHgAgAF7iAGNDJIBAzguOJgBAKABAaABAg&sclient=gws-wiz)
+   [vide alios et bene qui opus est cogitare](https://www.google.ch/search?q=%22vide+alios+et+bene+qui+opus+est+cogitare%22+lateinisch&source=hp&ei=EHPGYcGmLcaE9u8PxtW1-AE&iflsig=ALs-wAMAAAAAYcaBIPRpjDEgZ4ux_QGLPX5zLaaPTdnX&ved=0ahUKEwjB7ojK5f30AhVGgv0HHcZqDR8Q4dUDCAY&uact=5&oq=%22vide+alios+et+bene+qui+opus+est+cogitare%22+lateinisch&gs_lcp=Cgdnd3Mtd2l6EAM6BwghEAoQoAE6BAghEBU6BgghEAoQFVAAWIJGYJ1JaAJwAHgAgAF7iAGNDJIBAzguOJgBAKABAaABAg&sclient=gws-wiz)
 
 
 
