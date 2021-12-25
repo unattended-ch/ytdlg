@@ -9,7 +9,7 @@
 
     Compiled with Lazarus for Ubuntu, Raspian, MacOS and Windows
 
-    praevidere et cogitare nimis aliis quod opus est illis
+    prospicere and cogitare multum pro aliis quod opus est illis
 
 
 
