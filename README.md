@@ -9,7 +9,7 @@
 
     Compiled with Lazarus for Ubuntu, Raspian, MacOS and Windows
 
-    prospicere and cogitare multum pro aliis quod opus est illis
+    auxilio aliorum anticipant et cogitant pro se
 
 
 
