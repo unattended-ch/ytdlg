@@ -23,6 +23,7 @@
 <details open="open">
   <summary><h2 style="display: inline-block">TABLE OF CONTENTS</h2></summary>
   <ol>
+    <li><a href="#windows">Windows</a></li>
     <li><a href="#description">Description</a></li>
     <li><a href="#download">Download</a></li>
     <li><a href="#tools">Needed tools</a></li>
@@ -30,7 +31,7 @@
 </details>
 
 ## WINDOWS
-### Main window
+### Main Window
 ![Main Page](/main-window.png)
 
 ### Information window
