@@ -70,3 +70,5 @@
 0.0.0.18	Multiple buttons in Message window fixed
 		Information window display filename on top
 		MacOS installer icon fixed and unmount dmg after install
+0.0.0.19	Information window follow output on mac fixed
+		Display playlist count in panel
