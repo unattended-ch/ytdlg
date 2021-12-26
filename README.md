@@ -37,6 +37,8 @@
 ### Information window
 ![Info Page](/info-window.png)
 
+   [goto TOC](#toc)
+
 ## DESCRIPTION
 
        ytdlg <Enter>
