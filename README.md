@@ -34,6 +34,8 @@
 ### Main Window
 ![Main Page](/main-window.png)
 
+   [goto TOC](#toc)
+
 ### Information window
 ![Info Page](/info-window.png)
 
