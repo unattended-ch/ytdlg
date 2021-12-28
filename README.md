@@ -58,7 +58,7 @@
        - Linux data folder ~/.ytdlg is created for temporary files
        - Downloaded files are saved in ~/Music or ~/Videos
 
-       - Windows data folder %APPDATA%\ytdlg is created for temporary files
+       - Windows data folder %APPDATA%\ytdlg is created for temporary files and tools
        - Downloaded files are saved in %USERPROFILE%\Music or %USERPROFILE%\Videos
 
        - MacOS data folder ~/.ytdlg is created for temporary files
