@@ -10,7 +10,7 @@
     Compiled with Lazarus for Ubuntu, Raspian, MacOS and Windows
 
 
-
+   [vide alios et bene quod opus est cogitare](https://www.google.ch/search?q=%22vide+alios+et+bene+quod+opus+est+cogitare%22+deutsch)
    [Ad metas per aspera](https://www.google.ch/search?q="Ad+metas+per+aspera"+deutsch)
 
 </div>
