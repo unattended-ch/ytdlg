@@ -11,9 +11,6 @@
 
 
 
-
-   [Remote Chaos Expirience](https://events.ccc.de/category/rc3-2021/) from Dec. 27th – 30th, 2021
-
    [Ad metas per aspera](https://www.google.ch/search?q="Ad+metas+per+aspera"+deutsch)
 
 </div>
