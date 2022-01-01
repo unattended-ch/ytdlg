@@ -72,3 +72,5 @@
 		MacOS installer icon fixed and unmount dmg after install
 0.0.0.19	Information window follow output on mac fixed
 		Display playlist count in panel
+0.0.0.20	Config file location changed from /usr/local/etc/ to ~/.ytdlg/
+		Reload progress file from last run
