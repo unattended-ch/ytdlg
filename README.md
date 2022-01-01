@@ -51,13 +51,13 @@
        - For playlist there will be created a .m3u file
        - Remember downloading a playlist could take a long time depending on the size
 
-       - Linux data folder ~/.ytdlg is created for temporary files
+       - Linux data folder ~/.ytdlg is created for temporary files and config
        - Downloaded files are saved in ~/Music or ~/Videos
 
-       - Windows data folder %APPDATA%\ytdlg is created for temporary files and tools
+       - Windows data folder %APPDATA%\ytdlg is created for temporary files, tools and config
        - Downloaded files are saved in %USERPROFILE%\Music or %USERPROFILE%\Videos
 
-       - MacOS data folder ~/.ytdlg is created for temporary files
+       - MacOS data folder ~/.ytdlg is created for temporary files and config
        - Downloaded files are saved in ~/Music or ~/Videos
 
        - Video, Audio and Output format selection
