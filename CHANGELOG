@@ -74,3 +74,9 @@
 		Display playlist count in panel
 0.0.0.20	Config file location changed from /usr/local/etc/ to ~/.ytdlg/
 		Reload progress file from last run
+0.0.0.21	Fixed crash on full scrollbox
+		Fixed wrong filenames for video in playlist file .m3u
+		Tools added to Ubuntu package
+		Tools updated for Windows package
+		Crash-Dump to file ~/ytdlg.crash added
+		Delete playlist file from previous download
