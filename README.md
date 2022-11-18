@@ -7,7 +7,7 @@
 
     GUI for youtube-dl and yt-dlp
 
-    Compiled with Lazarus for Ubuntu, Raspian, MacOS and Windows
+    Compiled with Lazarus for Ubuntu, MacOS and Windows
 
 
    [vide alios et bene quod opus est cogitare](https://www.google.ch/search?q=%22vide+alios+et+bene+quod+opus+est+cogitare%22+deutsch)
