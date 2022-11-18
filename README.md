@@ -88,11 +88,10 @@
 ## TOOLS
 
     For minimal package you must install the following tools :
--   [  youtube-dl][youtube-dl] Download manager (Ubuntu and MacOS)
--   [  yt-dlp][yt-dlp] Download manager (Ubuntu and MacOS)
+-   [  youtube-dl][youtube-dl] Download manager (only MacOS)
+-   [  yt-dlp][yt-dlp] Download manager (only MacOS)
 -   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio (only MacOS)
 -   [  atomicparsley][atomicparsley] Insert meta data (only MacOS)
--   [  curl][curl] Download thumbnails (only Windows 7)
 
    [goto TOC](#toc)
 
