@@ -41,8 +41,8 @@
 
        ytdlg <Enter>
 
-         A = Download only audio files
-         V = Download video files
+         A = Download only audio files or stop download
+         V = Download video files or stop download
          I = Display process output
          X = Remove entry from list
 
@@ -81,14 +81,13 @@
        - Ubuntu full installer package with tools  (ytdlg-full_VERSION_amd64.deb)
        - Windows full installer package with tools (ytdlg-full_VERSION_setup.exe)
 
-       - Raspberry minimal installer package       (ytdlg_VERSION_armhf.deb)
        - MacOS minimal installer package           (ytdlg_VERSION_mac64.dmg)
 
 [![Download ](https://img.shields.io/github/v/release/unattended-ch/ytdlg?label=&style=for-the-badge)](https://github.com/unattended-ch/ytdlg/releases/latest)
 
 ## TOOLS
 
-    For all minimal packages you must install the following tools :
+    For minimal package you must install the following tools :
 -   [  youtube-dl][youtube-dl] Download manager (Ubuntu and MacOS)
 -   [  yt-dlp][yt-dlp] Download manager (Ubuntu and MacOS)
 -   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio (only MacOS)
