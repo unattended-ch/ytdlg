@@ -7,7 +7,7 @@
 
     GUI for youtube-dl and yt-dlp
 
-    Compiled with Lazarus for Ubuntu, MacOS and Windows
+    Compiled with Lazarus for Ubuntu and Windows
 
 
    [vide alios et bene quod opus est cogitare](https://www.google.ch/search?q=%22vide+alios+et+bene+quod+opus+est+cogitare%22+deutsch)
@@ -81,17 +81,18 @@
        - Ubuntu full installer package with tools  (ytdlg-full_VERSION_amd64.deb)
        - Windows full installer package with tools (ytdlg-full_VERSION_setup.exe)
 
-       - MacOS minimal installer package           (ytdlg_VERSION_mac64.dmg)
+       - MacOS no longer supported (My iMac is too old).
+       - Raspberry no longer supported (no downloads).
+
 
 [![Download ](https://img.shields.io/github/v/release/unattended-ch/ytdlg?label=&style=for-the-badge)](https://github.com/unattended-ch/ytdlg/releases/latest)
 
 ## TOOLS
 
-    For minimal package you must install the following tools :
--   [  youtube-dl][youtube-dl] Download manager (only MacOS)
--   [  yt-dlp][yt-dlp] Download manager (only MacOS)
--   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio (only MacOS)
--   [  atomicparsley][atomicparsley] Insert meta data (only MacOS)
+-   [  youtube-dl][youtube-dl] Download manager
+-   [  yt-dlp][yt-dlp] Download manager
+-   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio
+-   [  atomicparsley][atomicparsley] Insert meta data
 
    [goto TOC](#toc)
 
