@@ -78,5 +78,6 @@
 		Fixed wrong filenames for video in playlist file .m3u
 		Delete playlist file from previous download
 		Tools added to /usr/local/bin for Ubuntu package
+		Tools added to /usr/local/bin for MacOS package
 		Tools updated for Windows package
 		Crash-Dump to file ~/.ytdlg/ytdlg.crash added

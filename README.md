@@ -78,10 +78,9 @@
 
 ## DOWNLOAD
 
-       - Ubuntu full installer package with tools  (ytdlg-full_VERSION_amd64.deb)
        - Windows full installer package with tools (ytdlg-full_VERSION_setup.exe)
-
-       - MacOS minimal installer package           (ytdlg-full_VERSION_setup.exe)
+       - Ubuntu full installer package with tools  (ytdlg-full_VERSION_amd64.deb)
+       - MacOS full installer package with tools   (ytdlg-full_VERSION_mac64.dmg)
 
        - Raspberry no longer supported (no downloads).
 
