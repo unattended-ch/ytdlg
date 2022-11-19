@@ -7,7 +7,7 @@
 
     GUI for youtube-dl and yt-dlp
 
-    Compiled with Lazarus for Ubuntu and Windows
+    Compiled with Lazarus for Ubuntu, MacOS and Windows
 
 
    [vide alios et bene quod opus est cogitare](https://www.google.ch/search?q=%22vide+alios+et+bene+quod+opus+est+cogitare%22+deutsch)
@@ -81,7 +81,8 @@
        - Ubuntu full installer package with tools  (ytdlg-full_VERSION_amd64.deb)
        - Windows full installer package with tools (ytdlg-full_VERSION_setup.exe)
 
-       - MacOS no longer supported (My iMac is too old).
+       - MacOS minimal installer package           (ytdlg-full_VERSION_setup.exe)
+
        - Raspberry no longer supported (no downloads).
 
 
