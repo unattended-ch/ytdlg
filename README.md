@@ -76,7 +76,7 @@
    [goto TOC](#toc)
 
 ## CHANGELOG
-![Changelog](/CHANGELOG)
+[Changelog](/CHANGELOG)
 
 
 ## DOWNLOAD
