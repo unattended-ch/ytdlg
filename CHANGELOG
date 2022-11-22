@@ -76,8 +76,19 @@
 		Reload progress file from last run
 0.0.0.21	Fixed crash on full scrollbox
 		Fixed wrong filenames for video in playlist file .m3u
-		Delete playlist file from previous download
+		Fixed stop playlist download loop
 		Tools added to /usr/local/bin for Ubuntu package
 		Tools added to /usr/local/bin for MacOS package
 		Tools updated for Windows package
 		Crash-Dump to file ~/.ytdlg/ytdlg.crash added
+0.0.0.22	Added UpdateCheck to config (only selected downloader is updated)
+		Check for updates of ytdlg (only message is displayed)
+		Check for updates of yt-dlp (Ubuntu, MacOS and Windows) added
+		Check for updates of youtube-dl (Windows) added
+		Changed thread maximum default from 12 to 32 (absolute maximum 128)
+		Fixed crash on thread maximum reached
+		Fixed sort problem with file names, changed data1. to data001.
+		Fixed crash on resizing window
+		Added <ESC> key close information window
+		Added <ESC> key clear url
+		Added Audioplayer and Videoplayer to config

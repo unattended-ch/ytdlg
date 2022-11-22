@@ -70,7 +70,7 @@
        - Right click on file opens the option menu
        - Opening and closing the Information window with playlist could take time
 
-       - After download double click on image to start vlc
+       - After download double click on image to start the player (A=Audioplayer, V=Videoplayer)
 
 
    [goto TOC](#toc)
@@ -89,11 +89,12 @@
 
 ## TOOLS
 
--   [  youtube-dl][youtube-dl] Download manager
+-   [  youtube-dl][youtube-dl] Download manager (You must install or update)
 -   [  yt-dlp][yt-dlp] Download manager
 -   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio
 -   [  atomicparsley][atomicparsley] Insert meta data
 
+    
    [goto TOC](#toc)
 
 [releases]: https://github.com/unattended-ch/ytdlg/releases
