@@ -92,3 +92,12 @@
 		Added <ESC> key close information window
 		Added <ESC> key clear url
 		Added Audioplayer and Videoplayer to config
+0.0.0.23	Added "Github" button on Update page
+		Added password window for updates
+		Added Audioformat to config as default
+		Added Videoformat to config as default
+		Added Audio page for file selection
+		Added Video page for file selection
+		Fixed no filename displayed in Update page (Windows)
+		Fixed Mainform position save and restore
+		Fixed update problem (Ubuntu, MacOS)

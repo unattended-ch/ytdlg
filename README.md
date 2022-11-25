@@ -85,8 +85,6 @@
        - Ubuntu full installer package with tools  (ytdlg-full_VERSION_amd64.deb)
        - MacOS full installer package with tools   (ytdlg-full_VERSION_mac64.dmg)
 
-       - Raspberry no longer supported (no downloads).
-
 
 [![Download ](https://img.shields.io/github/v/release/unattended-ch/ytdlg?label=&style=for-the-badge)](https://github.com/unattended-ch/ytdlg/releases/latest)
 
