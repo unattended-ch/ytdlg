@@ -37,6 +37,21 @@
 
    [goto TOC](#toc)
 
+### Audio Window
+![Main Page](/audio-window.png)
+
+   [goto TOC](#toc)
+
+### Video Window
+![Main Page](/video-window.png)
+
+   [goto TOC](#toc)
+
+### Config Window
+![Main Page](/config-window.png)
+
+   [goto TOC](#toc)
+
 ## DESCRIPTION
 
        ytdlg <Enter>
@@ -71,7 +86,7 @@
        - Opening and closing the Information window with playlist could take time
 
        - After download double click on image to start the player (A=Audioplayer, V=Videoplayer)
-
+       - Be sure your Audioplayer and Videoplayer can be found in the PATH
 
    [goto TOC](#toc)
 
