@@ -103,3 +103,12 @@
 		Fixed no filename displayed in Update page (Windows)
 		Fixed Mainform position save and restore
 		Fixed update problem with access rights (Ubuntu, MacOS)
+0.0.0.24	Added <Find Error> button in Info-Window to search errors in .dbg and .err
+		Added delete unfinshed files when stopping download
+		Fixed refresh Audio- and Video-Page after download or delete
+		Fixed loading playlist from previous run
+		Fixed display playlist name after download
+		Fixed missing languages in Window-Setup (thanks YellowLooksRed)
+		Fixed missing destination filename after stoppinh download
+		Changed path in .m3u playlist files relativ to folder
+		Added debug info to file for crash dump detailed informations

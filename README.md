@@ -81,12 +81,14 @@
 
        - Manage work files from Information window (Save, View, Delete)
        - If you open the Information window it displays the current task
-       - Click on file stop current task and load the file for viewing
+       - Click on file load the file for viewing
        - Right click on file opens the option menu
        - Opening and closing the Information window with playlist could take time
 
        - After download double click on image to start the player (A=Audioplayer, V=Videoplayer)
-       - Be sure your Audioplayer and Videoplayer can be found in the PATH
+       - Be sure your Audioplayer and Videoplayer can be found in the PATH else set fullpath in config
+
+       - On Audio- or Video-page <DBL-CLICK> to start, Press <DEL> to delete file.
 
    [goto TOC](#toc)
 
