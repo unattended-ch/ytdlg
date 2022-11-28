@@ -111,4 +111,4 @@
 		Fixed missing languages in Window-Setup (thanks YellowLooksRed)
 		Fixed missing destination filename after stoppinh download
 		Changed path in .m3u playlist files relativ to folder
-		Added debug info to file for crash dump detailed informations
+		Added debug info to executable for crash dump detailed informations
