@@ -108,9 +108,9 @@
 ## TOOLS
 
 -   [  youtube-dl][youtube-dl] Download manager (You must install or update)
--   [  yt-dlp][yt-dlp] Download manager
--   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio
--   [  atomicparsley][atomicparsley] Insert meta data
+-   [  yt-dlp][yt-dlp] Download manager (/usr/local/bin/ OR %APPDATA%\ytdlg)
+-   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio (/usr/local/bin/ OR %APPDATA%\ytdlg)
+-   [  atomicparsley][atomicparsley] Insert meta data (/usr/local/bin/ OR %APPDATA%\ytdlg)
 
     
    [goto TOC](#toc)
