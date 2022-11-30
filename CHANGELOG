@@ -105,10 +105,13 @@
 		Fixed update problem with access rights (Ubuntu, MacOS)
 0.0.0.24	Added <Find Error> button in Info-Window to search errors in .dbg and .err
 		Added delete unfinshed files when stopping download
+		Added debug info to executable for crash dump detailed informations
 		Fixed refresh Audio- and Video-Page after download or delete
 		Fixed loading playlist from previous run
 		Fixed display playlist name after download
 		Fixed missing languages in Window-Setup (thanks YellowLooksRed)
-		Fixed missing destination filename after stoppinh download
+		Fixed missing destination filename after stopping download
 		Changed path in .m3u playlist files relativ to folder
-		Added debug info to executable for crash dump detailed informations
+0.0.0.25	Fixed ytdlg hangs on MacOS after installation of 0.0.0.24
+		Disable <ADD> and <EXIT> button during update check
+		Changed color on error in status message from blue to red
