@@ -115,3 +115,20 @@
 0.0.0.25	Fixed ytdlg hangs on MacOS after installation of 0.0.0.24
 		Disable <ADD> and <EXIT> button during update check
 		Changed color on error in status message from blue to red
+0.0.0.26	Added raspi full installation package
+		Added tools to /usr/local/bin for raspi full installation package
+		Added Windows installer and uninstaller create %TEMP%\ytdlg_(un)install.log
+		Added Windows installer remove previous installation
+		Added display message during update
+		Added playlist read formats from first entry
+		Added combobox in panel with files to download
+		Added reloading playlist from last downloaded file
+		Added --restrict-filenames for download to prevent non ascii chars
+		Fixed stopping download hangs on MacOS
+		Fixed JSON load error (removed warnings from yt-dlp)
+		Fixed some typo
+		Fixed playlist no jpg in panel then load it from first entry
+		Fixed remove unwanted chars from ploaylist name
+		Renamed installation packages
+		Crosscompiled under Ubuntu for Windows, Ubuntu and Raspi
+		Setup created under Ubuntu for Windows, Ubuntu and Raspi

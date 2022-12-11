@@ -7,7 +7,10 @@
 
     Simple GUI for youtube-dl and yt-dlp
 
-    Compiled with Lazarus for Ubuntu, MacOS and Windows
+    Compiled with Lazarus for Ubuntu, Raspi, MacOS and Windows
+
+    Crosscompiled with Ubuntu for Ubuntu, Raspi and Windows
+    Setup created with Ubuntu for Ubuntu, Raspi and Windows
 
 
    [vide alios et bene quod opus est cogitare](https://www.google.ch/search?q=%22vide+alios+et+bene+quod+opus+est+cogitare%22+deutsch)
@@ -65,6 +68,7 @@
        - Playlist is saved in a subfolder
        - For playlist there will be created a .m3u file
        - Remember downloading a playlist could take a long time depending on the size
+       - For playlist you can select the first file to download in playlist combo
 
        - Linux data folder ~/.ytdlg is created for temporary files and config
        - Downloaded files are saved in ~/Music or ~/Videos
@@ -78,6 +82,7 @@
        - Video, Audio and Output format selection
 
        - All list entrys are reloaded on restart
+       - Reloaded playlist starts with last downloaded file
 
        - Manage work files from Information window (Save, View, Delete)
        - If you open the Information window it displays the current task
@@ -98,9 +103,10 @@
 
 ## DOWNLOAD
 
-       - Windows full installer package with tools (ytdlg-full_VERSION_setup.exe)
-       - Ubuntu full installer package with tools  (ytdlg-full_VERSION_amd64.deb)
-       - MacOS full installer package with tools   (ytdlg-full_VERSION_mac64.dmg)
+       - Windows full installer package with tools (ytdlg-full_VERSION-win64.exe)
+       - Ubuntu full installer package with tools  (ytdlg-full_VERSION-amd64.deb)
+       - Raspi full installer package with tools   (ytdlg-full_VERSION-armhf.deb)
+       - MacOS full installer package with tools   (ytdlg-full_VERSION-mac64.dmg)
 
 
 [![Download ](https://img.shields.io/github/v/release/unattended-ch/ytdlg?label=&style=for-the-badge)](https://github.com/unattended-ch/ytdlg/releases/latest)
