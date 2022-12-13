@@ -103,10 +103,10 @@
 
 ## DOWNLOAD
 
-       - Windows full installer package with tools (ytdlg-full_VERSION-win64.exe)
-       - Ubuntu full installer package with tools  (ytdlg-full_VERSION-amd64.deb)
-       - Raspi full installer package with tools   (ytdlg-full_VERSION-armhf.deb)
-       - MacOS full installer package with tools   (ytdlg-full_VERSION-mac64.dmg)
+       - Windows full installer package with tools  (ytdlg-full_VERSION-win64.exe)
+       - Ubuntu full installer package with tools   (ytdlg-full_VERSION-amd64.deb)
+       - Raspi partial installer package with tools (ytdlg-full_VERSION-armhf.deb)
+       - MacOS full installer package with tools    (ytdlg-full_VERSION-mac64.dmg)
 
 
 [![Download ](https://img.shields.io/github/v/release/unattended-ch/ytdlg?label=&style=for-the-badge)](https://github.com/unattended-ch/ytdlg/releases/latest)
@@ -114,7 +114,7 @@
 ## TOOLS
 
 -   [  youtube-dl][youtube-dl] Download manager (You must install or update)
--   [  yt-dlp][yt-dlp] Download manager (/usr/local/bin/ OR %APPDATA%\ytdlg)
+-   [  yt-dlp][yt-dlp] Download manager (/usr/local/bin/ OR %APPDATA%\ytdlg) for Raspi use (python3 -m pip install -U yt-dlp)
 -   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio (/usr/local/bin/ OR %APPDATA%\ytdlg)
 -   [  atomicparsley][atomicparsley] Insert meta data (/usr/local/bin/ OR %APPDATA%\ytdlg)
 

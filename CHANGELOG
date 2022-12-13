@@ -132,3 +132,6 @@
 		Renamed installation packages
 		Crosscompiled under Ubuntu for Windows, Ubuntu and Raspi
 		Setup created under Ubuntu for Windows, Ubuntu and Raspi
+0.0.0.27	Removed yt-dlp binary from Raspi package (python3 -m pip install -U yt-dlp)
+		Removed unwanted chars from playlist combo
+		Fixed update check error
