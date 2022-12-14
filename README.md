@@ -31,27 +31,7 @@
 
 ## WINDOWS
 ### Main Window
-![Main Page](/main-window.png)
-
-   [goto TOC](#toc)
-
-### Information window
-![Info Page](/info-window.png)
-
-   [goto TOC](#toc)
-
-### Audio Window
-![Main Page](/audio-window.png)
-
-   [goto TOC](#toc)
-
-### Video Window
-![Main Page](/video-window.png)
-
-   [goto TOC](#toc)
-
-### Config Window
-![Main Page](/config-window.png)
+![Main Page](/res/main-window.png)
 
    [goto TOC](#toc)
 
@@ -64,11 +44,17 @@
          I = Display process output
          X = Remove entry from list
 
+       - <LEFT-CLICK> an A or V starts the download
+       - After clinking you can click again to stop it
+
+       - <RIGHT-CLICK> on A, V, I or X open options window (only on not running task)
+
        - Download a single file or all files from a playlist
        - Playlist is saved in a subfolder
        - For playlist there will be created a .m3u file
        - Remember downloading a playlist could take a long time depending on the size
        - For playlist you can select the first file to download in playlist combo
+         and the last file in the last file combo
 
        - Linux data folder ~/.ytdlg is created for temporary files and config
        - Downloaded files are saved in ~/Music or ~/Videos
@@ -90,10 +76,39 @@
        - Right click on file opens the option menu
        - Opening and closing the Information window with playlist could take time
 
-       - After download double click on image to start the player (A=Audioplayer, V=Videoplayer)
+       - After download <DBL-CLICK> on image to start the player (A=Audioplayer, V=Videoplayer)
        - Be sure your Audioplayer and Videoplayer can be found in the PATH else set fullpath in config
 
-       - On Audio- or Video-page <DBL-CLICK> to start, Press <DEL> to delete file.
+       - On Audio- or Video-page
+           <DBL-CLICK> to start
+           <DEL> to delete file
+           <F5> refresh
+           <F8> recreate playlist
+
+   [goto TOC](#toc)
+
+### Options Window
+![Main Page](/res/options-window.png)
+
+   [goto TOC](#toc)
+
+### Information window
+![Info Page](/res/info-window.png)
+
+   [goto TOC](#toc)
+
+### Audio Window
+![Main Page](/res/audio-window.png)
+
+   [goto TOC](#toc)
+
+### Video Window
+![Main Page](/res/video-window.png)
+
+   [goto TOC](#toc)
+
+### Config Window
+![Main Page](/res/config-window.png)
 
    [goto TOC](#toc)
 

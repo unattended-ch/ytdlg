@@ -135,3 +135,9 @@
 0.0.0.27	Removed yt-dlp binary from Raspi package (python3 -m pip install -U yt-dlp)
 		Removed unwanted chars from playlist combo
 		Fixed update check error
+0.0.0.28	Fixed playlist name and title since using --restrict-filenames
+		Fixed ytdlg hangs on raspi after stopping download
+		Added PlaylistPath to config (full, relativ)
+		Added options menu on right-click button A,V,O or X
+		Added playlist last file to stop download
+		Added get system thread count for config ThreadMax
