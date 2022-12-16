@@ -141,3 +141,7 @@
 		Added options menu on right-click button A,V,O or X
 		Added playlist last file to stop download
 		Added get system thread count for config ThreadMax
+0.0.0.29	Fixed panel contents position on resize
+		Added UpdateCheck 0=disabled >0=days to wait
+		Added Info window search for text
+		Changed UpdateCheck default to 7 days

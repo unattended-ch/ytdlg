@@ -22,19 +22,31 @@
 <details open="open">
   <summary><h2 style="display: inline-block">TABLE OF CONTENTS</h2></summary>
   <ol>
-    <li><a href="#windows">Windows</a></li>
-    <li><a href="#description">Description</a></li>
-    <li><a href="#download">Download</a></li>
-    <li><a href="#tools">Needed tools</a></li>
+    <li><a href="#windows">Windows</a>
+      <ul>
+      <li><a href="#mainwindow">Main</a></li>
+      <li><a href="#optionswindows">Options</a></li>
+      <li><a href="#informationwindows">Information</a></li>
+      <li><a href="#audiowindows">Audio</a></li>
+      <li><a href="#videowindows">Video</a></li>
+      <li><a href="#configwindows">Config</a></li>
+      </ul>
+    </li>
+    <li><a href="#descriptions">Description</a></li>
+    <li><a href="#downloads">Download</a></li>
+    <li><a href="#neededtools">Needed tools</a></li>
   </ol>
 </details>
 
+<a name="windows"></a>
 ## WINDOWS
-### Main Window
+<a name="mainwindow"></a>
+### Main-Window
 ![Main Page](/res/main-window.png)
 
    [goto TOC](#toc)
 
+<a name="descriptions"></a>
 ## DESCRIPTION
 
        ytdlg <Enter>
@@ -71,6 +83,8 @@
        - Reloaded playlist starts with last downloaded file
 
        - Manage work files from Information window (Save, View, Delete)
+       - Find ERROR in .dbg and .err files
+       - Search for text in files
        - If you open the Information window it displays the current task
        - Click on file load the file for viewing
        - Right click on file opens the option menu
@@ -87,35 +101,42 @@
 
    [goto TOC](#toc)
 
+<a name="optionswindows"></a>
 ### Options Window
 ![Main Page](/res/options-window.png)
 
    [goto TOC](#toc)
 
+<a name="informationwindows"></a>
 ### Information window
 ![Info Page](/res/info-window.png)
 
    [goto TOC](#toc)
 
+<a name="audiowindows"></a>
 ### Audio Window
 ![Main Page](/res/audio-window.png)
 
    [goto TOC](#toc)
 
+<a name="videowindows"></a>
 ### Video Window
 ![Main Page](/res/video-window.png)
 
    [goto TOC](#toc)
 
+<a name="configwindows"></a>
 ### Config Window
 ![Main Page](/res/config-window.png)
 
    [goto TOC](#toc)
 
+<a name="change"></a>
 ## CHANGELOG
 [Changelog](/CHANGELOG)
 
 
+<a name="downloads"></a>
 ## DOWNLOAD
 
        - Windows full installer package with tools  (ytdlg-full_VERSION-win64.exe)
@@ -126,6 +147,7 @@
 
 [![Download ](https://img.shields.io/github/v/release/unattended-ch/ytdlg?label=&style=for-the-badge)](https://github.com/unattended-ch/ytdlg/releases/latest)
 
+<a name="neededtools"></a>
 ## TOOLS
 
 -   [  youtube-dl][youtube-dl] Download manager (You must install or update)
