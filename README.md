@@ -178,7 +178,8 @@
 ## TOOLS
 
 -   [  youtube-dl][youtube-dl] Download manager (You must install or update)
--   [  yt-dlp][yt-dlp] Download manager (/usr/local/bin/ OR %APPDATA%\ytdlg) for Raspi use (python3 -m pip install -U yt-dlp)
+-   [  yt-dlp][yt-dlp] Download manager (/usr/local/bin/ OR %APPDATA%\ytdlg)
+       Raspi use (python3 -m pip install -U yt-dlp)
 -   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio (/usr/local/bin/ OR %APPDATA%\ytdlg)
 -   [  atomicparsley][atomicparsley] Insert meta data (/usr/local/bin/ OR %APPDATA%\ytdlg)
 
