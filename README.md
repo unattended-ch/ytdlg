@@ -21,7 +21,7 @@
 
     Simple GUI for youtube-dl and yt-dlp
 
-    Compiled with Lazarus 2.2.4 (FPC 3.2.2) for Ubuntu, Raspi, MacOS and Windows
+    Compiled with Lazarus for Ubuntu, Raspi, MacOS and Windows
 
     Compiled on Ubuntu with Lazarus for Ubuntu
     Compiled on MacOS with Lazarus for MacOS
