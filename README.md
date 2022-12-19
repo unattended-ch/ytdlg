@@ -4,7 +4,7 @@
 
 [![Downloads](https://img.shields.io/github/last-commit/unattended-ch/ytdlg?style=for-the-badge&color=green)](https://github.com/unattended-ch/ytdlg/releases/latest)
 [![Downloads](https://img.shields.io/github/license/unattended-ch/ytdlg?style=for-the-badge&color=green)](https://github.com/unattended-ch/ytdlg/releases/latest)
-[![GitHub stars](https://img.shields.io/github/stars/unattended-ch/ytdlg](https://github.com/unattended-ch/ytdlg/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/unattended-ch/ytdlg?style=for-the-badge&color=blue](https://github.com/unattended-ch/ytdlg/stargazers)
 [![Release version](https://img.shields.io/github/v/release/unattended-ch/ytdlg?label=&style=for-the-badge)](https://github.com/unattended-ch/ytdlg/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/unattended-ch/ytdlg/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/latest)
 
