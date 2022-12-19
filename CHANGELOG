@@ -145,3 +145,14 @@
 		Added UpdateCheck 0=disabled >0=days to wait
 		Added Info window search for text
 		Changed UpdateCheck default to 7 days
+0.0.0.30	Fixed info window load correct file
+		Fixed windows update problem after package rename
+		Changed check for updates after loading files
+		Added icons if no jpg was found for download
+		Added resize all controls on panel
+		Added <F1> open github page of ytdlg
+		Added <F10> exit program
+		Added <F12> restart program after config changes
+		Added update ytdlg with silent install
+		Added some icons for audio and video page under *nix
+		Removed .err files all data stored in .dbg

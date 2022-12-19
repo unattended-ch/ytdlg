@@ -26,6 +26,7 @@
       <ul>
       <li><a href="#mainwindow">Main</a></li>
       <li><a href="#optionswindows">Options</a></li>
+      <li><a href="#updatewindows">Update</a></li>
       <li><a href="#informationwindows">Information</a></li>
       <li><a href="#audiowindows">Audio</a></li>
       <li><a href="#videowindows">Video</a></li>
@@ -60,6 +61,11 @@
        - After clinking you can click again to stop it
 
        - <RIGHT-CLICK> on A, V, I or X open options window (only on not running task)
+
+       - Function keys
+           <F1> Open ytdlg github page
+           <F10> Close ytdlg
+           <F12> Restart ytdlg to load changes
 
        - Download a single file or all files from a playlist
        - Playlist is saved in a subfolder
@@ -104,6 +110,11 @@
 <a name="optionswindows"></a>
 ### Options Window
 ![Main Page](/res/options-window.png)
+
+
+<a name="updatewindows"></a>
+### Update Window
+![Main Page](/res/update-window.png)
 
    [goto TOC](#toc)
 
