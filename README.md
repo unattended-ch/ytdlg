@@ -32,8 +32,6 @@
     Setup created on Ubuntu for Windows with makensis
     Setup created on MacOS for MacOS with Packages and tools
 
-![Bugatti](http://unattended.ch/fblog/wp-content/uploads/2013/03/BAR_4610gangstarw.jpg)
-
 </div>
 
 <a name="toc"></a>
