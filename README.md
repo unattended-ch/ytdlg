@@ -8,7 +8,7 @@
 [![Downloads](https://img.shields.io/github/license/unattended-ch/ytdlg?style=for-the-badge&color=green)](https://github.com/unattended-ch/ytdlg/releases/latest)
 
 [![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-win64.exe)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-red.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-amd64.deb)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-green.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-amd64.deb)
 [![Raspi](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-armhf.deb)
 [![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-mac64.dmg)
 
@@ -166,7 +166,7 @@
 <div align="center">
 
 [![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-win64.exe)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-red.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-amd64.deb)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-green.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-amd64.deb)
 [![Raspi](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-armhf.deb)
 [![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-mac64.dmg)
 
