@@ -20,8 +20,12 @@
 
     Compiled with Lazarus 2.2.4 (FPC 3.2.2) for Ubuntu, Raspi, MacOS and Windows
 
-    Crosscompiled on Ubuntu for Ubuntu, Raspi and Windows
-    Setup created on Ubuntu for Ubuntu, Raspi and Windows
+    Compiled on Ubuntu with Lazarus for Ubuntu
+    Compiled on MacOS with Lazarus for MacOS
+    Crosscompiled on Ubuntu with Lazarus for Raspi and Windows
+    Setup created on Ubuntu for Ubuntu, Raspi with dpkg
+    Setup created on Ubuntu for Windows with makensis
+    Setup created on MacOS for MacOS with Packages and tools
 
 </div>
 
