@@ -13,6 +13,9 @@
 [![Raspi](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-armhf.deb)
 [![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-mac64.dmg)
 
+[![Lazarus](https://img.shields.io/badge/-Lazarus_2.2.4-navy.svg?style=for-the-badge)](https://www.lazarus-ide.org/)
+[![Fpc](https://img.shields.io/badge/-FPC_3.2.2-navy.svg?style=for-the-badge)](https://www.freepascal.org/download.html)
+
 [![my way](https://img.shields.io/badge/-vide_alios_et_bene_quod_opus_est_cogitare-navy.svg?style=for-the-badge)](https://www.google.ch/search?q=%22vide+alios+et+bene+quod+opus+est+cogitare%22+translate)
 
 
