@@ -27,7 +27,6 @@
 
 <a name="toc"></a>
 <!-- TABLE OF CONTENTS -->
-<div align="center">
 <details open="open">
   <summary><h2 style="display: inline-block">TABLE OF CONTENTS</h2></summary>
   <ol>
@@ -47,7 +46,6 @@
     <li><a href="#neededtools">Needed tools</a></li>
   </ol>
 </details>
-</div>
 
 <a name="windows"></a>
 ## WINDOWS
