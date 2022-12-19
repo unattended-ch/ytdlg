@@ -21,7 +21,7 @@
     Crosscompiled with Ubuntu for Ubuntu, Raspi and Windows
     Setup created with Ubuntu for Ubuntu, Raspi and Windows
 
-
+[![my way](https://img.shields.io/badge/-vide alios et bene quod opus est cogitare-navy.svg?style=for-the-badge)](https://www.google.ch/search?q=%22vide+alios+et+bene+quod+opus+est+cogitare%22+translate)
    [vide alios et bene quod opus est cogitare](https://www.google.ch/search?q=%22vide+alios+et+bene+quod+opus+est+cogitare%22+translate)
 
 </div>
