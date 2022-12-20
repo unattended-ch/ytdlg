@@ -38,7 +38,7 @@
 <a name="toc"></a>
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">💼 TABLE OF CONTENTS</h2></summary>
+  <summary><h2 style="display: inline-block">:scroll: TABLE OF CONTENTS</h2></summary>
   <ol>
     <li><a href="#windows">Windows</a>
       <ul>
@@ -60,13 +60,13 @@
 <a name="windows"></a>
 ## WINDOWS
 <a name="mainwindow"></a>
-### Main-Window
+### :computer: Main-Window
 ![Main Page](/res/main-window.png)
 
    [goto TOC](#toc)
 
 <a name="descriptions"></a>
-## 📗 DESCRIPTION
+## :scroll: DESCRIPTION
 
        ytdlg <Enter>
 
