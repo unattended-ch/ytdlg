@@ -156,5 +156,3 @@
 		Added update ytdlg with silent install
 		Added some icons for audio and video page under *nix
 		Removed .err files all data stored in .dbg
-0.0.0.31	Changed cursor on audio and video page
-		Changed cursor on panel image
