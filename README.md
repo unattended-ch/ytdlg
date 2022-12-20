@@ -126,47 +126,47 @@
    [goto TOC](#toc)
 
 <a name="optionswindows"></a>
-### Options Window
+### :computer: Options Window
 ![Main Page](/res/options-window.png)
 
 
 <a name="updatewindows"></a>
-### Update Window
+### :computer: Update Window
 ![Main Page](/res/update-window.png)
 
    [goto TOC](#toc)
 
 <a name="informationwindows"></a>
-### Information window
+### :computer: Information window
 ![Info Page](/res/info-window.png)
 
    [goto TOC](#toc)
 
 <a name="audiowindows"></a>
-### Audio Window
+### :computer: Audio Window
 ![Main Page](/res/audio-window.png)
 
    [goto TOC](#toc)
 
 <a name="videowindows"></a>
-### Video Window
+### :computer: Video Window
 ![Main Page](/res/video-window.png)
 
    [goto TOC](#toc)
 
 <a name="configwindows"></a>
-### Config Window
+### :computer: Config Window
 ![Main Page](/res/config-window.png)
 
    [goto TOC](#toc)
 
 <a name="change"></a>
-## CHANGELOG
+## :recycle: CHANGELOG
 [Changelog](/CHANGELOG)
 
 
 <a name="downloads"></a>
-## DOWNLOAD
+## :dvd: DOWNLOAD
 
        - Windows full installer package with tools  (ytdlg-full_VERSION-win64.exe)
        - Ubuntu full installer package with tools   (ytdlg-full_VERSION-amd64.deb)
@@ -185,7 +185,7 @@
 </div>
 
 <a name="neededtools"></a>
-## TOOLS
+## :hammer: TOOLS
 
 -   [  youtube-dl][youtube-dl] Download manager (You must install or update)
 -   [  yt-dlp][yt-dlp] Download manager (/usr/local/bin/ OR %APPDATA%\ytdlg)
