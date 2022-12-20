@@ -21,7 +21,7 @@
 [![my way](https://img.shields.io/badge/-vide_alios_et_bene_quod_opus_est_cogitare-navy.svg?style=for-the-badge)](https://www.google.ch/search?q=%22vide+alios+et+bene+quod+opus+est+cogitare%22+translate)
 
 
-    <font size=2>Simple GUI for youtube-dl and yt-dlp</font>
+<font size=2>	Simple GUI for youtube-dl and yt-dlp</font>
 
     Compiled with Lazarus for Ubuntu, Raspi, MacOS and Windows
 
