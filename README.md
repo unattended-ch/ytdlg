@@ -38,7 +38,7 @@
 <a name="toc"></a>
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">TABLE OF CONTENTS</h2></summary>
+  <summary><h2 style="display: inline-block">💼 TABLE OF CONTENTS</h2></summary>
   <ol>
     <li><a href="#windows">Windows</a>
       <ul>
