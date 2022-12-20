@@ -2,7 +2,7 @@
 
 ## YTDLG
 
-<font size=16>	Simple GUI for youtube-dl and yt-dlp</font>
+### Simple GUI for youtube-dl and yt-dlp</font>
 
 [![Downloads](https://img.shields.io/github/last-commit/unattended-ch/ytdlg?style=for-the-badge&color=green)](https://github.com/unattended-ch/ytdlg/releases/latest)
 [![Downloads](https://img.shields.io/github/license/unattended-ch/ytdlg?style=for-the-badge&color=darkgreen)](https://github.com/unattended-ch/ytdlg/releases/latest)
