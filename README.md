@@ -2,6 +2,8 @@
 
 ## YTDLG
 
+<font size=16>	Simple GUI for youtube-dl and yt-dlp</font>
+
 [![Downloads](https://img.shields.io/github/last-commit/unattended-ch/ytdlg?style=for-the-badge&color=green)](https://github.com/unattended-ch/ytdlg/releases/latest)
 [![Downloads](https://img.shields.io/github/license/unattended-ch/ytdlg?style=for-the-badge&color=darkgreen)](https://github.com/unattended-ch/ytdlg/releases/latest)
 [![Stars](https://img.shields.io/github/stars/unattended-ch/ytdlg?style=for-the-badge&color=orange)](https://github.com/unattended-ch/ytdlg/stargazers)
@@ -21,7 +23,6 @@
 [![my way](https://img.shields.io/badge/-vide_alios_et_bene_quod_opus_est_cogitare-navy.svg?style=for-the-badge)](https://www.google.ch/search?q=%22vide+alios+et+bene+quod+opus+est+cogitare%22+translate)
 
 
-<font size=16>	Simple GUI for youtube-dl and yt-dlp</font>
 
     Compiled with Lazarus for Ubuntu, Raspi, MacOS and Windows
 
