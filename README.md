@@ -175,7 +175,7 @@
 
 <div align="center">
 
-[![Download ](https://img.shields.io/github/v/release/unattended-ch/ytdlg?label=&style=for-the-badge)](https://github.com/unattended-ch/ytdlg/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/unattended-ch/ytdlg/v0.0.0.30/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/latest)
 
 [![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-win64.exe)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-amd64.deb)
