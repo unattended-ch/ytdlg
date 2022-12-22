@@ -10,10 +10,11 @@
 [![Release version](https://img.shields.io/github/v/release/unattended-ch/ytdlg?label=&style=for-the-badge)](https://github.com/unattended-ch/ytdlg/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/unattended-ch/ytdlg/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/latest)
 
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-win64.exe)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-amd64.deb)
-[![Raspi](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-armhf.deb)
-[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-mac64.dmg)
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.31-win64.exe)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.31-amd64.deb)
+[![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.31-armhf.deb)
+[![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.31-arm64.deb)
+[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.31-mac64.dmg)
 
 [![Lazarus](https://img.shields.io/badge/-Lazarus_2.2.4-yellow.svg?style=for-the-badge)](https://sourceforge.net/projects/lazarus/files/Lazarus%20Linux%20amd64%20DEB/Lazarus%202.2.4/)
 [![Fpc](https://img.shields.io/badge/-FPC_3.2.2-yellow.svg?style=for-the-badge)](https://www.freepascal.org/download.html)
@@ -24,12 +25,12 @@
 
 
 
-    Compiled with Lazarus for Ubuntu, Raspi, MacOS and Windows
+    Compiled with Lazarus for Ubuntu, Raspi3, Raspi4, MacOS and Windows
 
     Compiled on Ubuntu with Lazarus for Ubuntu
     Compiled on MacOS with Lazarus for MacOS
-    Crosscompiled on Ubuntu with Lazarus for Raspi and Windows
-    Setup created on Ubuntu for Ubuntu, Raspi with dpkg
+    Crosscompiled on Ubuntu with Lazarus for Raspi3, Raspi4 and Windows
+    Setup created on Ubuntu for Ubuntu, Raspi3, Raspi4 with dpkg
     Setup created on Ubuntu for Windows with makensis
     Setup created on MacOS for MacOS with Packages and tools
 
@@ -168,19 +169,21 @@
 <a name="downloads"></a>
 ## :dvd: DOWNLOAD
 
-       - Windows full installer package with tools  (ytdlg-full_VERSION-win64.exe)
-       - Ubuntu full installer package with tools   (ytdlg-full_VERSION-amd64.deb)
-       - Raspi partial installer package with tools (ytdlg-full_VERSION-armhf.deb)
-       - MacOS full installer package with tools    (ytdlg-full_VERSION-mac64.dmg)
+       - Windows full installer package with tools   (ytdlg-full_VERSION-win64.exe)
+       - Ubuntu full installer package with tools    (ytdlg-full_VERSION-amd64.deb)
+       - Raspi3 partial installer package with tools (ytdlg-full_VERSION-armhf.deb)
+       - Raspi4 full installer package with tools    (ytdlg-full_VERSION-arm64.deb)
+       - MacOS full installer package with tools     (ytdlg-full_VERSION-mac64.dmg)
 
 <div align="center">
 
-[![Downloads](https://img.shields.io/github/downloads/unattended-ch/ytdlg/v0.0.0.30/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/unattended-ch/ytdlg/v0.0.0.31/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/latest)
 
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-win64.exe)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-amd64.deb)
-[![Raspi](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-armhf.deb)
-[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.30-mac64.dmg)
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.31-win64.exe)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.31-amd64.deb)
+[![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.31-armhf.deb)
+[![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.31-arm64.deb)
+[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.31-mac64.dmg)
 
 </div>
 
@@ -188,8 +191,7 @@
 ## :hammer: TOOLS
 
 -   [  youtube-dl][youtube-dl] Download manager (You must install or update)
--   [  yt-dlp][yt-dlp] Download manager (/usr/local/bin/ OR %APPDATA%\ytdlg)
-   Raspi (python3 -m pip install -U yt-dlp)
+-   [  yt-dlp][yt-dlp] Download manager (/usr/local/bin/ OR %APPDATA%\ytdlg)  Raspi3 (python3 -m pip install -U yt-dlp)
 -   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio (/usr/local/bin/ OR %APPDATA%\ytdlg)
 -   [  atomicparsley][atomicparsley] Insert meta data (/usr/local/bin/ OR %APPDATA%\ytdlg)
 

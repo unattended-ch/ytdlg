@@ -156,3 +156,8 @@
 		Added update ytdlg with silent install
 		Added some icons for audio and video page under *nix
 		Removed .err files all data stored in .dbg
+0.0.0.31	Fixed delete empty downloaded .jpg file
+		Fixed crash with Music or Musik folder
+		Changed cursor on audio and video page
+		Changed cursor on panel image
+		Added Raspi4 ARM64 full installation package
