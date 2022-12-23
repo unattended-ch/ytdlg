@@ -13,7 +13,8 @@ Version : 0.0.0.
 URL : 
 
 **Screenshots**
-Attach all dataXXX.* files and a screenshot of your config page in a .zip file.
+Attach all dataXXX.* files and a screenshot of your config page in a .zip file
+
 Replace XXX with your panel number.
 \*nix -> ~/.ytdlg/dataXXX.*
 Win   -> %APPDATA%\ytdlg\dataXXX.*
