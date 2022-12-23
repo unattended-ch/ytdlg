@@ -14,6 +14,6 @@ URL :
 
 **Screenshots**
 Attach all dataXXX.* files and a screenshot of your config page in a .zip file.
-Replaxe XXX with your panel number.
-*nix : ~/.ytdlg/dataXXX.*
-Win : %APPDATA%\ytdlg\dataXXX.*
+Replace XXX with your panel number.
+\*nix -> ~/.ytdlg/dataXXX.*
+Win   -> %APPDATA%\ytdlg\dataXXX.*
