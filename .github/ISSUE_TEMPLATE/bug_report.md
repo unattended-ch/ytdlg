@@ -1,7 +1,8 @@
 ---
 name: Bug report
-about: ytdlg is a GUI and does download or convert nothing !
-title: ''
+about: ytdlg is a GUI and does download or convert nothing ! All work is done by yt-dlp,
+  ffmpeg...
+title: "[BUG] : "
 labels: bug
 assignees: unattended-ch
 
@@ -13,3 +14,6 @@ URL :
 
 **Screenshots**
 Attach all dataXXX.* files and a screenshot of your config page in a .zip file.
+Replaxe XXX with your panel number.
+*nix : ~/.ytdlg/dataXXX.*
+Win : %APPDATA%\ytdlg\dataXXX.*
