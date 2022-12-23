@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: ytdlg is a GUI and does download or convert nothing !
 title: ''
 labels: bug
 assignees: unattended-ch
