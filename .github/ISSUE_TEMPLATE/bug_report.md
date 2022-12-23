@@ -12,4 +12,4 @@ Version : 0.0.0.
 URL : 
 
 **Screenshots**
-Attach all dataXXX.*and a screenshot of your config page in a .zip file.
+Attach all dataXXX.* files and a screenshot of your config page in a .zip file.
