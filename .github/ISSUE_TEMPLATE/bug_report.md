@@ -12,10 +12,9 @@ assignees: unattended-ch
 Version : 0.0.0.
 URL : 
 
-**Screenshots**
-Attach all dataXXX.* files and a screenshot of your config page in a .zip file
-
 **Files**
-Replace XXX with your panel number.
-Unix  -> ~/.ytdlg/dataXXX.*
-Win   -> %APPDATA%\ytdlg\dataXXX.*
+Attach all data000.* files and a screenshot of your config page in a .zip file
+
+Replace 000 with your panel number.
+Unix  -> ~/.ytdlg/data000.*
+Win   -> %APPDATA%\ytdlg\data000.*
