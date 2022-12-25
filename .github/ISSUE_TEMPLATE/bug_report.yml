@@ -3,7 +3,7 @@ description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
-  - 
+  - unattended-ch
 body:
   - type: markdown
     attributes:
@@ -31,7 +31,6 @@ body:
     attributes:
       label: Version
       description: What version of our software are you running?
-      placeholder: Please update to latest version befor creating a issue.
       options:
         - 0.0.0.31 (Latest)
     validations:
