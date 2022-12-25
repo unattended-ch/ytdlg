@@ -8,8 +8,22 @@ assignees: unattended-ch
 
 ---
 
+**DO NOT REMOVE OR SKIP THE ISSUE TEMPLATE**
+
+Fill all fields even if you think it is irrelevant for the issue
+
+- [ ] I understand that I will be blocked if I remove or skip any mandatory* field *
+
+**Checklist**
+
+Carefully read and work through this check list in order to prevent the most common mistakes and misuse of ytdlg:
+
+- [ ] I'm reporting a bug unrelated to a specific site *
+- [ ] I've verified that I'm running ytdlg v0.0.0.31 *
+- [ ] I've checked that all provided URLs are playable in a browser with the same IP and same login details *
+- [ ] I've checked that all URLs and arguments with special characters are  properly quoted or escaped *
+
 **Describe the bug**
-Version : 0.0.0.
 URL : 
 
 **Files**
