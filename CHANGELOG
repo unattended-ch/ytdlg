@@ -165,7 +165,7 @@
 		Added check audio and video folder exists
 		Added check selected downloader (default yt-dlp) exists
 		Added check video player exists (must be in PATH)
-		Added checl audio player exists (must be in PATH)
+		Added check audio player exists (must be in PATH)
 		Added check ffmpeg exists (dependency of yt-dlp)
     		Added check AtomicParsley exists (dependency of yt-dlp)
 		Added check url for https:// else error
