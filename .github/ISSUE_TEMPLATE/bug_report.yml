@@ -32,7 +32,7 @@ body:
       label: Version
       description: Please update to latest version befor creating a issue.
       options:
-        - 0.0.0.31 (Latest)
+        - 0.0.0.32 (Latest)
     validations:
       required: true
   - type: textarea
