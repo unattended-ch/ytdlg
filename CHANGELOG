@@ -161,3 +161,11 @@
 		Changed cursor on audio and video page
 		Changed cursor on panel image
 		Added Raspi4 ARM64 full installation package
+0.0.0.32	Changed windows install tools selected per default
+		Added check audio and video folder exists
+		Added check selected downloader (default yt-dlp) exists
+		Added check video player exists (must be in PATH)
+		Added checl audio player exists (must be in PATH)
+		Added check ffmpeg exists (dependency of yt-dlp)
+    		Added check AtomicParsley exists (dependency of yt-dlp)
+		Added check url for https:// else error
