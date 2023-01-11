@@ -169,3 +169,4 @@
 		Added check ffmpeg exists (dependency of yt-dlp)
     		Added check AtomicParsley exists (dependency of yt-dlp)
 		Added check url for https:// else error
+0.0.0.33	Fixed playlist wrong file count since yt-dlp update
