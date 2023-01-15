@@ -1,8 +1,8 @@
 <div align="center">
 
-## YTDLG
+## YTDLG ![](res/ch.png)
 
-### Simple GUI for youtube-dl and yt-dlp</font>
+### Simple GUI for youtube-dl and yt-dlp
 
 [![Downloads](https://img.shields.io/github/last-commit/unattended-ch/ytdlg?style=for-the-badge&color=green)](https://github.com/unattended-ch/ytdlg/releases/latest)
 [![Downloads](https://img.shields.io/github/license/unattended-ch/ytdlg?style=for-the-badge&color=darkgreen)](https://github.com/unattended-ch/ytdlg/releases/latest)
@@ -21,15 +21,12 @@
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu_20.04-yellow.svg?style=for-the-badge)](https://releases.ubuntu.com/focal/)
 [![MacOS](https://img.shields.io/badge/-MacOS_10.13-yellow.svg?style=for-the-badge)](https://de.wikipedia.org/wiki/MacOS)
 
-![](res/ch.png)
-[![my way](https://img.shields.io/badge/-vide_alios_et_bene_quod_opus_est_cogitare-navy.svg?style=for-the-badge)](https://www.google.ch/search?q=%22vide+alios+et+bene+quod+opus+est+cogitare%22+translate)
-![](res/ch.png)<br>
-![](res/ru.png)
+[![my way](https://img.shields.io/badge/-vide_alios_et_bene_quod_opus_est_cogitare-navy.svg?style=for-the-badge)](https://www.google.ch/search?q=%22vide+alios+et+bene+quod+opus+est+cogitare%22+translate)<br>
 [![mendacium punietur](https://img.shields.io/badge/-mendacium_punietur-blue.svg?style=for-the-badge)](https://www.google.ch/search?q=%22mendacium+punietur%22+translate)
-![](res/ru.png) 
+![](res/ru.png) <-> 
 ![](res/ua.png)
 [![my statement](https://img.shields.io/badge/-vincit_omnia_veritas-blue.svg?style=for-the-badge)](https://www.google.ch/search?q=%22vincit+omnia+veritas%22+translate)
-![](res/ua.png)
+
 
 
 
