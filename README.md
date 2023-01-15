@@ -21,9 +21,10 @@
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu_20.04-yellow.svg?style=for-the-badge)](https://releases.ubuntu.com/focal/)
 [![MacOS](https://img.shields.io/badge/-MacOS_10.13-yellow.svg?style=for-the-badge)](https://de.wikipedia.org/wiki/MacOS)
 
-[![my way](https://img.shields.io/badge/-vide_alios_et_bene_quod_opus_est_cogitare-navy.svg?style=for-the-badge)](https://www.google.ch/search?q=%22vide+alios+et+bene+quod+opus+est+cogitare%22+translate)
-[![](res/ua.png)]()
+[![my way](https://img.shields.io/badge/-vide_alios_et_bene_quod_opus_est_cogitare-navy.svg?style=for-the-badge)](https://www.google.ch/search?q=%22vide+alios+et+bene+quod+opus+est+cogitare%22+translate)<br>
+![](res/ua.png)
 [![my way](https://img.shields.io/badge/-vincit_omnia_veritas-navy.svg?style=for-the-badge)](https://www.google.ch/search?q=%22vincit+omnia+veritas%22+translate)
+![](res/ua.png)
 
 
 
