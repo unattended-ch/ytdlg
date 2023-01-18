@@ -9,6 +9,10 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
+  - type: markdown
+    attributes:
+      value: |
+        If your bug related to a specific url, please read [Supported sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
   - type: input
     id: contact
     attributes:
@@ -32,7 +36,7 @@ body:
       label: Version
       description: Please update to latest version befor creating a issue.
       options:
-        - 0.0.0.32 (Latest)
+        - 0.0.0.33 (Latest)
     validations:
       required: true
   - type: textarea
