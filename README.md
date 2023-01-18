@@ -1,6 +1,6 @@
 <div align="center">
 
-## YTDLG ![](res/ch.png)
+## YTDLG
 
 ### Simple GUI for youtube-dl and yt-dlp
 
@@ -22,12 +22,6 @@
 [![MacOS](https://img.shields.io/badge/-MacOS_10.13-yellow.svg?style=for-the-badge)](https://de.wikipedia.org/wiki/MacOS)
 
 [![my way](https://img.shields.io/badge/-vide_alios_et_bene_quod_opus_est_cogitare-navy.svg?style=for-the-badge)](https://www.google.ch/search?q="vide+alios+et+bene+quod+opus+est+cogitare"%2B+translate)<br>
-[![mendacium punietur](https://img.shields.io/badge/-mendacium_punietur-blue.svg?style=for-the-badge)](https://www.google.ch/search?q="mendacium+punietur"%2Btranslate)
-![](res/ru.png) <> 
-![](res/ua.png)
-[![my statement](https://img.shields.io/badge/-vincit_omnia_veritas-blue.svg?style=for-the-badge)](https://www.google.ch/search?q="vincit+omnia+veritas"%2B+translate)
-
-
 
 
     Compiled with Lazarus for Ubuntu, Raspi3, Raspi4, MacOS and Windows
