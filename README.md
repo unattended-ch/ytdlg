@@ -126,36 +126,36 @@
    [goto TOC](#toc)
 
 <a name="optionswindows"></a>
-### :computer: Options Window
+## :computer: Options Window
 ![Main Page](/res/options-window.png)
 
 
 <a name="updatewindows"></a>
-### :computer: Update Window
+## :computer: Update Window
 ![Main Page](/res/update-window.png)
 
    [goto TOC](#toc)
 
 <a name="informationwindows"></a>
-### :computer: Information window
+## :computer: Information window
 ![Info Page](/res/info-window.png)
 
    [goto TOC](#toc)
 
 <a name="audiowindows"></a>
-### :computer: Audio Window
+## :computer: Audio Window
 ![Main Page](/res/audio-window.png)
 
    [goto TOC](#toc)
 
 <a name="videowindows"></a>
-### :computer: Video Window
+## :computer: Video Window
 ![Main Page](/res/video-window.png)
 
    [goto TOC](#toc)
 
 <a name="configwindows"></a>
-### :computer: Config Window
+## :computer: Config Window
 ![Main Page](/res/config-window.png)
 
    [goto TOC](#toc)
