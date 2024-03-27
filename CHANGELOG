@@ -170,3 +170,7 @@
     		Added check AtomicParsley exists (dependency of yt-dlp)
 		Added check url for https:// else error
 0.0.0.33	Fixed playlist wrong file count since yt-dlp update
+0.0.0.34	Fixed playlist wrong file count since yt-dlp update
+		Configuration changed from INI to JSON format
+		Configuration selection list added in JSON
+		Installation package naming conventions changed
