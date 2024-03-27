@@ -21,6 +21,14 @@ body:
       placeholder: ex. email@example.com
     validations:
       required: false
+  - type: input
+    id: url
+    attributes:
+      label: URL with problems
+      description: Enter the URL that produces the problem ?
+      placeholder: ex. https://youtube.com/....
+    validations:
+      required: true
   - type: textarea
     id: what-happened
     attributes:
