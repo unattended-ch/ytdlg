@@ -168,11 +168,11 @@
 <a name="downloads"></a>
 ## :dvd: DOWNLOAD
 
-       - Windows full installer package with tools   (ytdlg-full_VERSION-win64.exe)
-       - Ubuntu full installer package with tools    (ytdlg-full_VERSION-amd64.deb)
-       - Raspi3 partial installer package with tools (ytdlg-full_VERSION-armhf.deb)
-       - Raspi4 full installer package with tools    (ytdlg-full_VERSION-arm64.deb)
-       - MacOS full installer package with tools     (ytdlg-full_VERSION-mac64.dmg)
+       - Windows full installer package with tools   (ytdlg-full_VERSION_win64.exe)
+       - Ubuntu full installer package with tools    (ytdlg-full_VERSION_amd64.deb)
+       - Raspi3 partial installer package with tools (ytdlg-full_VERSION_armhf.deb)
+       - Raspi4 full installer package with tools    (ytdlg-full_VERSION_arm64.deb)
+       - MacOS full installer package with tools     (ytdlg-full_VERSION_mac64.dmg)
 
 <div align="center">
 
