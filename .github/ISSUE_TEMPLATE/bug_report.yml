@@ -21,6 +21,14 @@ body:
       placeholder: ex. email@example.com
     validations:
       required: false
+  - type: input
+    id: url
+    attributes:
+      label: URL with problem
+      description: Enter URL that procduces the problem
+      placeholder: https://youtube.com/....
+      validations:
+      required: true
   - type: textarea
     id: what-happened
     attributes:
@@ -36,7 +44,8 @@ body:
       label: Version
       description: Please update to latest version befor creating a issue.
       options:
-        - 0.0.0.33 (Latest)
+        - 0.0.0.33
+        - 0.0.0.34 (Latest)
     validations:
       required: true
   - type: textarea
