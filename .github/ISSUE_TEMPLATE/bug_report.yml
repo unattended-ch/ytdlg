@@ -44,7 +44,6 @@ body:
       label: Version
       description: Please update to latest version befor creating a issue.
       options:
-        - 0.0.0.33
         - 0.0.0.34 (Latest)
     validations:
       required: true
