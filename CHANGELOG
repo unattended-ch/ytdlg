@@ -174,3 +174,5 @@
 		Configuration changed from INI to JSON format
 		Configuration selection list added in JSON
 		Installation package naming conventions changed
+0.0.0.35	Configuration reading wrong value for plalist output fixed
+		Update error downloading fixed
