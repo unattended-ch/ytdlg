@@ -24,17 +24,16 @@
 [![my way](https://img.shields.io/badge/-vide_alios_et_bene_quod_opus_est_cogitare-navy.svg?style=for-the-badge)](https://www.google.ch/search?q="vide+alios+et+bene+quod+opus+est+cogitare"%2B+translate)<br>
 
 </div>
-<div align="center">
 
-            Compiled with Lazarus for Ubuntu, Raspi3, Raspi4, MacOS and Windows
-            Compiled on Ubuntu with Lazarus for Ubuntu
-            Compiled on MacOS with Lazarus for MacOS
-            Crosscompiled on Ubuntu with Lazarus for Raspi3, Raspi4 and Windows
-            Setup created on Ubuntu for Ubuntu, Raspi3, Raspi4 with dpkg
-            Setup created on Ubuntu for Windows with makensis
-            Setup created on MacOS for MacOS with Packages and tools
+<p style="text-align: center;">Compiled with Lazarus for Ubuntu, Raspi3, Raspi4, MacOS and Windows</p>
+<p style="text-align: center;">Compiled on Ubuntu with Lazarus for Ubuntu</p>
+<p style="text-align: center;">Compiled on MacOS with Lazarus for MacOS</p>
+<p style="text-align: center;">Crosscompiled on Ubuntu with Lazarus for Raspi3, Raspi4 and Windows</p>
+<p style="text-align: center;">Setup created on Ubuntu for Ubuntu, Raspi3, Raspi4 with dpkg</p>
+<p style="text-align: center;">Setup created on Ubuntu for Windows with makensis</p>
+<p style="text-align: center;">Setup created on MacOS for MacOS with Packages and tools</p>
 
-</div>
+
 
 <a name="toc"></a>
 <!-- TABLE OF CONTENTS -->
