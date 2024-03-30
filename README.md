@@ -26,13 +26,13 @@
 </div>
 <div align="center">
 
-         Compiled with Lazarus for Ubuntu, Raspi3, Raspi4, MacOS and Windows
-         Compiled on Ubuntu with Lazarus for Ubuntu
-         Compiled on MacOS with Lazarus for MacOS
-         Crosscompiled on Ubuntu with Lazarus for Raspi3, Raspi4 and Windows
-         Setup created on Ubuntu for Ubuntu, Raspi3, Raspi4 with dpkg
-         Setup created on Ubuntu for Windows with makensis
-         Setup created on MacOS for MacOS with Packages and tools
+            Compiled with Lazarus for Ubuntu, Raspi3, Raspi4, MacOS and Windows
+            Compiled on Ubuntu with Lazarus for Ubuntu
+            Compiled on MacOS with Lazarus for MacOS
+            Crosscompiled on Ubuntu with Lazarus for Raspi3, Raspi4 and Windows
+            Setup created on Ubuntu for Ubuntu, Raspi3, Raspi4 with dpkg
+            Setup created on Ubuntu for Windows with makensis
+            Setup created on MacOS for MacOS with Packages and tools
 
 </div>
 
