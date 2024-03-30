@@ -23,6 +23,8 @@
 
 [![my way](https://img.shields.io/badge/-vide_alios_et_bene_quod_opus_est_cogitare-navy.svg?style=for-the-badge)](https://www.google.ch/search?q="vide+alios+et+bene+quod+opus+est+cogitare"%2B+translate)<br>
 
+</div>
+<div align="center">
 
     Compiled with Lazarus for Ubuntu, Raspi3, Raspi4, MacOS and Windows
 
