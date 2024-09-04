@@ -2,7 +2,7 @@
 
 ## YTDLG
 
-### Simple GUI for youtube-dl and yt-dlp
+### Simple GUI for yt-dlp
 
 [![Downloads](https://img.shields.io/github/last-commit/unattended-ch/ytdlg?style=for-the-badge&color=green)](https://github.com/unattended-ch/ytdlg/releases/latest)
 [![Downloads](https://img.shields.io/github/license/unattended-ch/ytdlg?style=for-the-badge&color=darkgreen)](https://github.com/unattended-ch/ytdlg/releases/latest)
@@ -10,11 +10,11 @@
 [![Release version](https://img.shields.io/github/v/release/unattended-ch/ytdlg?label=&style=for-the-badge)](https://github.com/unattended-ch/ytdlg/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/unattended-ch/ytdlg/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/)
 
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.35_win64.exe)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.35_amd64.deb)
-[![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.35_armhf.deb)
-[![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.35_arm64.deb)
-[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/ytdlg/release/latest/download/ytdlg-full_0.0.0.35_mac64.dmg)
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.36_win64.exe)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.36_amd64.deb)
+[![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.36_armhf.deb)
+[![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.36_arm64.deb)
+[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/ytdlg/release/latest/download/ytdlg-full_0.0.0.36_mac64.dmg)
 
 [![Lazarus](https://img.shields.io/badge/-Lazarus_2.2.4-yellow.svg?style=for-the-badge)](https://sourceforge.net/projects/lazarus/files/Lazarus%20Linux%20amd64%20DEB/Lazarus%202.2.4/)
 [![Fpc](https://img.shields.io/badge/-FPC_3.2.2-yellow.svg?style=for-the-badge)](https://www.freepascal.org/download.html)
@@ -71,12 +71,16 @@
 
        ytdlg <Enter>
 
+       - Insert URL and press ADD
+       * NEW Config-Value "Autoadd" to specify N seconds to ADD new URL from Clipboard
+             youtube-dl support removed (no updates available since 2021.12.17)
+
          A = Download only audio files or stop download
          V = Download video files or stop download
          I = Display process output
          X = Remove entry from list
 
-       - <LEFT-CLICK> an A or V starts the download
+       - <LEFT-CLICK> on A or V starts the download
        - After clinking you can click again to stop it
 
        - <RIGHT-CLICK> on A, V, I or X open options window (only on not running task)
@@ -177,20 +181,19 @@
 
 <div align="center">
 
-[![Downloads](https://img.shields.io/github/downloads/unattended-ch/ytdlg/v0.0.0.35/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/unattended-ch/ytdlg/v0.0.0.36/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/latest)
 
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.35_win64.exe)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.35_amd64.deb)
-[![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.35_armhf.deb)
-[![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.35_arm64.deb)
-[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.35_mac64.dmg)
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.36_win64.exe)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.36_amd64.deb)
+[![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.36_armhf.deb)
+[![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.36_arm64.deb)
+[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.36_mac64.dmg)
 
 </div>
 
 <a name="neededtools"></a>
 ## :hammer: TOOLS
 
--   [  youtube-dl][youtube-dl] Download manager (You must install or update)
 -   [  yt-dlp][yt-dlp] Download manager (/usr/local/bin/ OR %APPDATA%\ytdlg)  Raspi3 (python3 -m pip install -U yt-dlp)
 -   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio (/usr/local/bin/ OR %APPDATA%\ytdlg)
 -   [  atomicparsley][atomicparsley] Insert meta data (/usr/local/bin/ OR %APPDATA%\ytdlg)
@@ -199,8 +202,6 @@
    [goto TOC](#toc)
 
 [releases]: https://github.com/unattended-ch/ytdlg/releases
-
-[youtube-dl]: https://github.com/ytdl-org/youtube-dl#installation
 
 [yt-dlp]: https://github.com/yt-dlp/yt-dlp#installation
 

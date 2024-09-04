@@ -176,3 +176,7 @@
 		Installation package naming conventions changed
 0.0.0.35	Configuration reading wrong value for playlist output fixed
 		Update error downloading fixed
+0.0.0.36	Added Autoadd to config to automatically grab url from clipboard every N seconds
+		Added check if url already exists in download
+		Fixed downloader not found on fresh installation
+		Removed youtube-dl no more updates available and forked by yt-dlg
