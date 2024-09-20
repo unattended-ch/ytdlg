@@ -180,3 +180,9 @@
 		Added check if url already exists in download
 		Fixed downloader not found on fresh installation
 		Removed youtube-dl no more updates available and forked by yt-dlg
+0.0.0.37	Added internal structure for config data
+		Moved initial config data from code to structure
+		Install downloader if no version found in config
+		Replaced info window from TRichEdit to TSynEdit
+		Fixed crash on exit with running background process
+		Removed ffplay and ffprobe from installation package
