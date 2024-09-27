@@ -186,3 +186,4 @@
 		Replaced info window from TRichEdit to TSynEdit
 		Fixed crash on exit with running background process
 		Removed ffplay and ffprobe from installation package
+0.0.0.38	Fixed error creating windows installation package
