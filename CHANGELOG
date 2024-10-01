@@ -187,3 +187,7 @@
 		Fixed crash on exit with running background process
 		Removed ffplay and ffprobe from installation package
 0.0.0.38	Fixed error creating windows installation package
+0.0.0.39	Added yt-dlp update for armhf with binary or pip
+		Added ytdlg check MD5 hash on update
+		Added Updatemode to config for binary or pip installation
+		Added directory select dialog for config audio- and videolocation
