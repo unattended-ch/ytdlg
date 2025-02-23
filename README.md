@@ -77,8 +77,8 @@
        * NEW Specify subfolder for download, enter foldername in Panel
 
              Don't add a path delimiter at the end
-             If foldername NOT start with a path delimiter the path is relativ to users home folder
-             If foldername start with a path delimiter it will be used as full path
+             Foldername NOT start with a path delimiter the path is relativ to users home folder
+             Foldername start with a path delimiter it will be used as full path
              For full path Music- or Video-folder is added automatically
              
        
