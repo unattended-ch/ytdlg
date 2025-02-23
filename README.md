@@ -74,7 +74,13 @@
        - Insert URL and press ADD
          or use Config-Value "Autoadd" to specify N seconds to ADD new URL from Clipboard
        
-       * NEW Specify subfolder for download, enter folder name in Panel
+       * NEW Specify subfolder for download, enter foldername in Panel
+       
+            Don't add a path delimiter at the end
+            If foldername NOT start with a path delimiter the path is relativ to users home folder
+            If foldername start with a path delimiter it will be used as full path
+            For full path Music- or Video-folder is added automatically
+             
        
          A = Download only audio files or stop download
          V = Download video files or stop download
