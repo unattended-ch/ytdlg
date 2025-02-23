@@ -119,8 +119,6 @@
        - Reloaded playlist starts with last downloaded file
 
        - Manage work files from Information window (Save, View, Delete)
-       - Find ERROR in .dbg and .err files
-       - Search for text in files
        - If you open the Information window it displays the current task
        - Click on file load the file for viewing
        - Right click on file opens the option menu
