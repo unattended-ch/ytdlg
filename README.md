@@ -74,7 +74,7 @@
        - Insert URL and press ADD
          or use Config-Value "Autoadd" to specify N seconds to ADD new URL from Clipboard
        
-       * NEW Specify subfolder for download, enter foldername in Panel
+       * NEW Specify subfolder for download, enter foldername in Panel (top right)
 
              Don't add a path delimiter at the end
              Foldername NOT start with a path delimiter the path is relativ to users home folder
