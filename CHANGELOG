@@ -191,3 +191,11 @@
 		Added ytdlg check MD5 hash on update
 		Added Updatemode to config for binary or pip installation
 		Added directory select dialog for config audio- and videolocation
+0.0.0.40	Checking picklist audio- and videolocation for existing <"0" : "~"> entry in config
+		Fixed update failed since changes on github.com
+		Fixed F12 saving changes on exit
+		Fixed save window position with multiscreen
+		Changed info window follow input
+		Changed Audio- and Video-Page showing files and folders
+		Added Panel subfolder for download
+		Added Config value Log (0/1)
