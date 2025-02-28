@@ -199,3 +199,4 @@
 		Changed Audio- and Video-Page showing files and folders
 		Added Panel subfolder for download
 		Added Config value Log (0/1)
+0.0.0.41	Fixed Update function error on Windows
