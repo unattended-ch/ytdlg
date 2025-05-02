@@ -200,3 +200,4 @@
 		Added Panel subfolder for download
 		Added Config value Log (0/1)
 0.0.0.41	Fixed Update function error on Windows
+0.0.0.42	Fixed Error reading .JSON data
