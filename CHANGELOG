@@ -201,4 +201,7 @@
 		Added Config value Log (0/1)
 0.0.0.41	Fixed Update function error on Windows
 0.0.0.42	Fixed Error reading .JSON data
-0.0.0.43	Remove yt-dlp error messages from .JSON
+0.0.0.43	Remove yt-dlp error messages from JSON
+0.0.0.44	Save yt-dlp JSON-data to .info file
+		Save yt-dlp error messages to .err file to prevent JSON errors
+		Info-Window .run files removed .err files added
