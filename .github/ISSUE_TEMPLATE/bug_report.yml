@@ -44,7 +44,7 @@ body:
       label: Version
       description: Please update to latest version befor creating a issue.
       options:
-        - 0.0.0.44 (Latest)
+        - 0.0.0.45 (Latest)
     validations:
       required: true
   - type: textarea
