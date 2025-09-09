@@ -7,7 +7,7 @@
 [![Downloads](https://img.shields.io/github/last-commit/unattended-ch/ytdlg?style=for-the-badge&color=green)](https://github.com/unattended-ch/ytdlg/releases/latest)
 [![Downloads](https://img.shields.io/github/license/unattended-ch/ytdlg?style=for-the-badge&color=darkgreen)](https://github.com/unattended-ch/ytdlg/releases/latest)
 [![Stars](https://img.shields.io/github/stars/unattended-ch/ytdlg?style=for-the-badge&color=orange)](https://github.com/unattended-ch/ytdlg/stargazers)
-[![Release version](https://img.shields.io/github/v/release/unattended-ch/ytdlg?label=&style=for-the-badge)](https://github.com/unattended-ch/ytdlg/releases/latest)
+[![Release version](https://img.shields.io/github/v/release/unattended-ch/ytdlg?label=&style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/unattended-ch/ytdlg/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/)
 
 [![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.44_win64.exe)
