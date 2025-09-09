@@ -202,6 +202,12 @@
 0.0.0.41	Fixed Update function error on Windows
 0.0.0.42	Fixed Error reading .JSON data
 0.0.0.43	Remove yt-dlp error messages from JSON
-0.0.0.44	Save yt-dlp JSON-data to .info file
-		Save yt-dlp error messages to .err file to prevent JSON errors
+0.0.0.44	Save yt-dlp stdout JSON-data to .info file
+		Save yt-dlp stderr Text-data to .err file to prevent JSON errors
 		Info-Window .run files removed .err files added
+0.0.0.45	Fixed WaitForThread global break handled
+		Fixed update function hanging curl replaced by internal code
+		Fixed initial screen position from Designed to MainScreenCenter
+		Fixed F12 saving config changes
+		Fixed reading .dbg and .err files on reload
+		Fixed Infowindow scrolling during download
