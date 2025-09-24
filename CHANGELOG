@@ -211,3 +211,8 @@
 		Fixed F12 saving config changes
 		Fixed reading .dbg and .err files on reload
 		Fixed Infowindow scrolling during download
+0.0.0.46	Fixed yt-dlp parameter error for video downloads version 0.0.0.44 and 0.0.0.45
+		Fixed playlist index display during download with subfolder specified
+		Changed video- and audio-format selection
+		Added create .cmd file with yt-dlp commandline
+		
