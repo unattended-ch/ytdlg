@@ -215,4 +215,12 @@
 		Fixed playlist index display during download with subfolder specified
 		Changed video- and audio-format selection
 		Added create .cmd file with yt-dlp commandline
-		
+0.0.0.47	Fixed playlist wrong path in relativ-mode
+		Fixed crash create .run file after panel creation
+		Fixed crash on windows during update
+		Changed playlist default video to [bestvideo] and audio to [bestaudio]
+		Added config value Login with login parameters
+		Added config value Agent with browser agent string
+		Added deno to installer for ubuntu and windows since yt-dlp needs JS runtime
+		Updated ffmpeg and ffprobe
+		Important for armhf, arm64 and macos you have to install deno

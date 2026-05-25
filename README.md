@@ -10,11 +10,11 @@
 [![Release version](https://img.shields.io/github/v/release/unattended-ch/ytdlg?label=&style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/unattended-ch/ytdlg/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/)
 
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.46_win64.exe)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.46_amd64.deb)
-[![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.46_armhf.deb)
-[![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.46_arm64.deb)
-[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/ytdlg/release/latest/download/ytdlg-full_0.0.0.46_mac64.dmg)
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.47_win64.exe)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.47_amd64.deb)
+[![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-part_0.0.0.47_armhf.deb)
+[![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-part_0.0.0.47_arm64.deb)
+[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/ytdlg/release/latest/download/ytdlg-part_0.0.0.47_mac64.dmg)
 
 [![Lazarus](https://img.shields.io/badge/-Lazarus_2.2.4-yellow.svg?style=for-the-badge)](https://sourceforge.net/projects/lazarus/files/Lazarus%20Linux%20amd64%20DEB/Lazarus%202.2.4/)
 [![Fpc](https://img.shields.io/badge/-FPC_3.2.2-yellow.svg?style=for-the-badge)](https://www.freepascal.org/download.html)
@@ -26,11 +26,11 @@
 </div>
 <div align="center">
 
-            Compiled with Lazarus for Ubuntu, Raspi3, Raspi4, MacOS and Windows
+            Compiled with Lazarus for Ubuntu, MacOS and Windows
             Compiled on Ubuntu with Lazarus for Ubuntu
             Compiled on MacOS with Lazarus for MacOS
-            Crosscompiled on Ubuntu with Lazarus for Raspi3, Raspi4 and Windows
-            Setup created on Ubuntu for Ubuntu, Raspi3, Raspi4 with dpkg
+            Crosscompiled on Ubuntu with Lazarus Windows
+            Setup created on Ubuntu for Ubuntu with dpkg
             Setup created on Ubuntu for Windows with makensis
             Setup created on MacOS for MacOS with Packages and tools
 
@@ -80,6 +80,13 @@
              Foldername start with a path delimiter it will be used as full path
              For full path Music- or Video-folder is added automatically
               
+       - :hot: New config parameters
+         Added Config-Value "Login" to specify login parameters
+            --cookies-from-browser firefox      Use cookies from firefox to login
+            If cookies are timedout you must refresh the browser and restart the download.
+            This needs deno for the script stuff. For amd64 and win64 deno is included.
+            For armhf, arm64 and mac64 you need to install deno by yourself.
+         Added Config-Value "Agent" to specify user-agent string
        
          A = Download only audio files or stop download
          V = Download video files or stop download
@@ -179,19 +186,19 @@
 
        - Windows full installer package with tools   (ytdlg-full_VERSION_win64.exe)
        - Ubuntu full installer package with tools    (ytdlg-full_VERSION_amd64.deb)
-       - Raspi3 full installer package with tools    (ytdlg-full_VERSION_armhf.deb)
-       - Raspi4 full installer package with tools    (ytdlg-full_VERSION_arm64.deb)
-       - MacOS full installer package with tools     (ytdlg-full_VERSION_mac64.dmg)
+       - Raspi3 partial installer package with tools (ytdlg-part_VERSION_armhf.dmg)
+       - Raspi4 partial installer package with tools (ytdlg-part_VERSION_arm64.dmg)
+       - MacOS partial installer package with tools  (ytdlg-part_VERSION_mac64.dmg)
 
 <div align="center">
 
-[![Downloads](https://img.shields.io/github/downloads/unattended-ch/ytdlg/v0.0.0.46/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/unattended-ch/ytdlg/v0.0.0.47/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/latest)
 
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.46_win64.exe)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.46_amd64.deb)
-[![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.46_armhf.deb)
-[![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.46_arm64.deb)
-[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.46_mac64.dmg)
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.47_win64.exe)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.47_amd64.deb)
+[![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-part_0.0.0.47_armhf.deb)
+[![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-part_0.0.0.47_arm64.deb)
+[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-part_0.0.0.47_mac64.dmg)
 
 </div>
 
@@ -200,6 +207,7 @@
 
 -   [  yt-dlp][yt-dlp] Download manager (/usr/local/bin/ OR %APPDATA%\ytdlg)
 -   [  ffmpeg][ffmpeg] Convert/Merge Video and Audio (/usr/local/bin/ OR %APPDATA%\ytdlg)
+-   [  deno][deno] JSruntime (/usr/local/bin/ OR %APPDATA%\ytdlg)
 -   [  atomicparsley][atomicparsley] Insert meta data (/usr/local/bin/ OR %APPDATA%\ytdlg)
 
     
@@ -210,6 +218,8 @@
 [yt-dlp]: https://github.com/yt-dlp/yt-dlp#installation
 
 [ffmpeg]: https://www.ffmpeg.org/download.html
+
+[deno]: https://github.com/denoland/deno
 
 [atomicparsley]: https://howtoinstall.co/en/atomicparsley
 
