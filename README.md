@@ -80,7 +80,7 @@
              Foldername start with a path delimiter it will be used as full path
              For full path Music- or Video-folder is added automatically
 
-:hot:
+### :hot:
 
        - NEW config parameters
          Added Config-Value "Login" to specify login parameters
