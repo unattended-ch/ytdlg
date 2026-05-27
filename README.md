@@ -80,9 +80,7 @@
              Foldername start with a path delimiter it will be used as full path
              For full path Music- or Video-folder is added automatically
 
-:fire:
-
-       - NEW config parameters
+       - ![NEW](https://github.githubassets.com/images/icons/emoji/unicode/1f195.png?v8) config parameters
          Added Config-Value "Login" to specify login parameters
             --cookies-from-browser firefox      Use cookies from firefox to login
             If cookies are timedout you must refresh the browser and restart the download.
@@ -90,7 +88,7 @@
             For armhf, arm64 and mac64 you need to install deno by yourself.
          Added Config-Value "Agent" to specify user-agent string
 
-       
+
          A = Download only audio files or stop download
          V = Download video files or stop download
          I = Display process output
