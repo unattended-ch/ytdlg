@@ -80,7 +80,8 @@
              Foldername start with a path delimiter it will be used as full path
              For full path Music- or Video-folder is added automatically
 
-![NEW](https://github.githubassets.com/images/icons/emoji/unicode/1f195.png?v8) config parameters
+:new:
+       - NEW config parameters
          Added Config-Value "Login" to specify login parameters
             --cookies-from-browser firefox      Use cookies from firefox to login
             If cookies are timedout you must refresh the browser and restart the download.
