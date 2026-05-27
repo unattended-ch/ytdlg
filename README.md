@@ -79,7 +79,9 @@
              Foldername NOT start with a path delimiter the path is relativ to users home folder
              Foldername start with a path delimiter it will be used as full path
              For full path Music- or Video-folder is added automatically
-              
+
+:hot:
+
        - NEW config parameters
          Added Config-Value "Login" to specify login parameters
             --cookies-from-browser firefox      Use cookies from firefox to login
