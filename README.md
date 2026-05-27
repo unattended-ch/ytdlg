@@ -81,6 +81,7 @@
              For full path Music- or Video-folder is added automatically
 
 :new:
+
        - NEW config parameters
          Added Config-Value "Login" to specify login parameters
             --cookies-from-browser firefox      Use cookies from firefox to login
