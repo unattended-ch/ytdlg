@@ -10,29 +10,23 @@
 [![Release version](https://img.shields.io/github/v/release/unattended-ch/ytdlg?label=&style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/unattended-ch/ytdlg/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/)
 
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.47_win64.exe)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.47_amd64.deb)
-[![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-part_0.0.0.47_armhf.deb)
-[![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-part_0.0.0.47_arm64.deb)
-[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/ytdlg/release/latest/download/ytdlg-part_0.0.0.47_mac64.dmg)
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.48_win64.exe)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.48_amd64.deb)
 
 [![Lazarus](https://img.shields.io/badge/-Lazarus_2.2.4-yellow.svg?style=for-the-badge)](https://sourceforge.net/projects/lazarus/files/Lazarus%20Linux%20amd64%20DEB/Lazarus%202.2.4/)
 [![Fpc](https://img.shields.io/badge/-FPC_3.2.2-yellow.svg?style=for-the-badge)](https://www.freepascal.org/download.html)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu_20.04-yellow.svg?style=for-the-badge)](https://releases.ubuntu.com/focal/)
-[![MacOS](https://img.shields.io/badge/-MacOS_10.13-yellow.svg?style=for-the-badge)](https://de.wikipedia.org/wiki/MacOS)
 
 [![my way](https://img.shields.io/badge/-vide_alios_et_bene_quod_opus_est_cogitare-navy.svg?style=for-the-badge)](https://www.google.ch/search?q="vide+alios+et+bene+quod+opus+est+cogitare"%2B+translate)<br>
 
 </div>
 <div align="center">
 
-            Compiled with Lazarus for Ubuntu, MacOS and Windows
+            Compiled with Lazarus for Ubuntu and Windows
             Compiled on Ubuntu with Lazarus for Ubuntu
-            Compiled on MacOS with Lazarus for MacOS
             Crosscompiled on Ubuntu with Lazarus Windows
             Setup created on Ubuntu for Ubuntu with dpkg
             Setup created on Ubuntu for Windows with makensis
-            Setup created on MacOS for MacOS with Packages and tools
 
 </div>
 
@@ -87,7 +81,6 @@
             --cookies-from-browser firefox      Use cookies from firefox to login
             If cookies are timedout you must refresh the browser and restart the download.
             This needs deno for the script stuff. For amd64 and win64 deno is included.
-            For armhf, arm64 and mac64 you need to install deno by yourself.
          Added Config-Value "Agent" to specify user-agent string
 
 
@@ -118,9 +111,6 @@
 
        - Windows data folder %APPDATA%\ytdlg is created for temporary files, tools and config
        - Downloaded files are saved in %USERPROFILE%\Music or %USERPROFILE%\Videos
-
-       - MacOS data folder ~/.ytdlg is created for temporary files and config
-       - Downloaded files are saved in ~/Music or ~/Videos
 
        - Video, Audio and Output format selection
 
@@ -189,19 +179,13 @@
 
        - Windows full installer package with tools   (ytdlg-full_VERSION_win64.exe)
        - Ubuntu full installer package with tools    (ytdlg-full_VERSION_amd64.deb)
-       - Raspi3 partial installer package with tools (ytdlg-part_VERSION_armhf.dmg)
-       - Raspi4 partial installer package with tools (ytdlg-part_VERSION_arm64.dmg)
-       - MacOS partial installer package with tools  (ytdlg-part_VERSION_mac64.dmg)
 
 <div align="center">
 
-[![Downloads](https://img.shields.io/github/downloads/unattended-ch/ytdlg/v0.0.0.47/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/unattended-ch/ytdlg/v0.0.0.48/total?style=for-the-badge&color=blue)](https://github.com/unattended-ch/ytdlg/releases/latest)
 
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.47_win64.exe)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.47_amd64.deb)
-[![Raspi3](https://img.shields.io/badge/-Raspi_ARMHF-maroon.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-part_0.0.0.47_armhf.deb)
-[![Raspi4](https://img.shields.io/badge/-Raspi_ARM64-orange.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-part_0.0.0.47_arm64.deb)
-[![MacOS](https://img.shields.io/badge/-MacOS_x64-lightblue.svg?style=for-the-badge&logo=apple)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-part_0.0.0.47_mac64.dmg)
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.48_win64.exe)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu_x64-brightgreen.svg?style=for-the-badge&logo=linux)](https://github.com/unattended-ch/ytdlg/releases/latest/download/ytdlg-full_0.0.0.48_amd64.deb)
 
 </div>
 

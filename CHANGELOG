@@ -224,3 +224,6 @@
 		Added deno to installer for ubuntu and windows since yt-dlp needs JS runtime
 		Updated ffmpeg and ffprobe
 		Important for armhf, arm64 and macos you have to install deno
+0.0.0.48	Fixed communication with yt-dlp
+		Audio language codes added
+		Removed armhf, arm64 and macos installation packages
